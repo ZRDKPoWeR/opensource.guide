@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: 居心地の良いコミュニティを築こう
-description: 人々があなたのプロジェクトを使ったり、コントリビュートしたり、人に伝えたくなるようなコミュニティを築きましょう
+description: 人々があなたのプロジェクトを使ったり、コントリビュートしたり、人に伝えたくなるようなコミュニティを築きましょう。
 class: building
 order: 4
 image: /assets/images/cards/building.png
@@ -148,7 +148,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   リーダーたちは異なる意見を持っていることでしょう。あらゆる健全なコミュニティはそうあるべきなのです！しかし、大きな声が人々を疲弊させることによって必ずしも勝つとは限らず、目立たない少数派の声も聞き入れられるように対策を講じる必要があります。
   <p markdown="1" class="pquote-credit">
-— @@sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -168,7 +168,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 * もしプロジェクトが GitHub 上にあるのであれば、 **プロジェクトをあなた個人のアカウントから [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** に移し、最低でも一人代わりの管理者を追加しましょう。 Organization によって外部の協力者と一緒にプロジェクト上での作業をしやすくなります。
 
-実際のところ、[ほとんどのプロジェクトはたった](https://peerj.com/preprints/1233.pdf) 一人か二人のメンテナーしかおらず、彼らがほとんどの作業を行っています。プロジェクトやコミュニティが大きくなるほど、協力者を見つけるのがより簡単になります。
+実際のところ、[ほとんどのプロジェクトはたった](https://peerj.com/preprints/1233/) 一人か二人のメンテナーしかおらず、彼らがほとんどの作業を行っています。プロジェクトやコミュニティが大きくなるほど、協力者を見つけるのがより簡単になります。
 
 常に要求に応じてくれる人が見つかるとは限りませんが、そういったシグナルを出しておくことで、協力してくれる人が出てくるチャンスが増えます。そしてより早く始めると、より早く人々が助けてくれるでしょう。
 
@@ -224,7 +224,7 @@ README は[単なる手順書以上の存在です](../starting-a-project/#readm
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Atom の Issue に投票システムが存在しない理由の一部は、 Atom チームはあらゆるケースにおいて投票システムを使うわけではないからです。時には、あまり支持されていなくても、正しいと感じることを選ぶ必要があります。（中略）私が提供し、実施すると固く約束するのは…、コミュニティの意見に耳を傾けることが私の仕事であるということです。
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

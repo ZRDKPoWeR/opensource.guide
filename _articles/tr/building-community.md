@@ -169,7 +169,7 @@ Mülkiyetinizi topluluğunuzla mümkün olduğunca paylaşmanın yollarını bul
 
 * Projeniz GitHub'daysa, **projenizi kişisel hesabınızdan bir [Organizasyona](https://help.github.com/articles/creating-a-new-organization-account/) hesabına taşıyın** ve en az bir yedek yönetici ekleyin. Organizasyon hesapları, harici çalışanlarla projeler üzerinde çalışmayı kolaylaştırır.
 
-Gerçek şu ki çoğu projede işlerin çoğunu yapan [yalnızca](https://peerj.com/preprints/1233.pdf) bir veya iki geliştirici vardır. Projeniz büyüdükçe ve topluluğunuz büyüdükçe, yardım bulmak o kadar kolay olur.
+Gerçek şu ki çoğu projede işlerin çoğunu yapan [yalnızca](https://peerj.com/preprints/1233/) bir veya iki geliştirici vardır. Projeniz büyüdükçe ve topluluğunuz büyüdükçe, yardım bulmak o kadar kolay olur.
 
 Çağrıya her zaman cevap verecek birini bulamayacak olsanız da, bir mesaj bırakmak, diğer kişilerin girme şansını arttırır.
 
@@ -225,7 +225,7 @@ Bir uzlaşma arayışı sürecinde, topluluk üyeleri yeterince duyulduğunu his
   <img class="pquote-avatar" alt="avatar" src="https://avatars.githubusercontent.com/lee-dohm?s=180">
   Atom sorunları için bir oylama sisteminin bulunmamasının bir nedeni de Atom ekibinin her durumda bir oylama sistemini takip etmemesi. Bazen popüler olmasa bile neyin doğru olduğunu düşündüğümüzü seçmek zorundayız. (...) Yapabileceğim ve yapmayı taahhüt edebileceğim şey, toplumu dinlemek benim işim.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

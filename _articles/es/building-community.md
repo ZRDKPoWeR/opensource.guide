@@ -170,7 +170,7 @@ Observa si puedes encontrar maneras de compartir la propiedad de tu comunidad ta
 
 * Si tu proyecto est&aacute; alojado en GitHub, **mueve tu proyecto desde tu cuenta personal hacia una [Organizaci&oacute;n](https://help.github.com/articles/creating-a-new-organization-account/)** y agrega al menos un administrador de respaldo. Las Organizaciones hacen que sea m&aacute;s f&aacute;cil trabajar en proyectos con colaboradores externos.
 
-La realidad es que [la mayor&iacute;a de los proyectos solo tienen](https://peerj.com/preprints/1233.pdf) una o dos personas que lo mantengan y que hacen la mayor&iacute;a del trabajo. Mientras m&aacute;s grande sea tu proyecto, y mientras m&aacute;s grande sea tu comunidad, m&aacute;s f&aacute;cil es encontrar ayuda.
+La realidad es que [la mayor&iacute;a de los proyectos solo tienen](https://peerj.com/preprints/1233/) una o dos personas que lo mantengan y que hacen la mayor&iacute;a del trabajo. Mientras m&aacute;s grande sea tu proyecto, y mientras m&aacute;s grande sea tu comunidad, m&aacute;s f&aacute;cil es encontrar ayuda.
 
 Aunque no siempre encuentres quien responda tu pedido, poner una se&ntilde;al por fuera incrementa las probabilidades de que otras personas se presenten. Y mientras m&aacute;s temprano comiences, m&aacute;s pronto las personas podr&aacute;n ayudar.
 
@@ -227,7 +227,7 @@ Bajo un proceso de b&uacute;squeda de concenso, los miembros de la comunidad dis
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Parte de la raz&oacute;n por la que la votaci&oacute;n no existe para Cuestiones At&oacute;micas es porque un Grupo At&oacute;mico no llevar&aacute; adelante un sistema de votaci&oacute;n en todos los casos. Algunas veces tenemos que elegir lo que nos parece correcto incluso aunque no sea popular. (...) Lo que puedo ofrecer y prometo hacer... es escuchar a la comunidad.
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

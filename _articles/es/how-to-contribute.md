@@ -68,14 +68,6 @@ Un error conceptual com&uacute;n acerca de contribuir con el c&oacute;digo abier
 
 Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera de involucrarse con un proyecto y conocer a otros miembros de la comunidad. Construir esas relaciones te dar&aacute; oportunidades de trabajar en otras partes del proyecto.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Llegu&eacute; por primera vez al equipo de desarrollo de Python (alias python-dev) cuando envi&eacute; un correo electr&oacute;nico a su lista de correos el 17 de junio de 2002, aceptando mi parche. R&aacute;pidamente me encontr&eacute; con un error de c&oacute;digo abierto, y decid&iacute; comenzar a limpiar el resumen de correos electr&oacute;nicos para el grupo. Me dieron una gran excusa para pedir aclaraciones sobre un tema, pero principalmente pude notar cu&aacute;ndo alguien señalaba algo que necesitaba ser reparado.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Hostorias de un encargado"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### ¿Te gusta planificar eventos?
 
 * Organiza workshops o reuniones acerca del proyecto, [como hizo @fzamperin para NodeSchool](https://github.com/nodeschool/organizers/issues/406)
@@ -215,7 +207,6 @@ Puedes tambi&eacute;n utilizar algunos de los siguientes recursos para ayudarte 
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
@@ -480,7 +471,7 @@ Si el proyecto est&aacute; alojado en GITHUB, ac&aacute; te explicamos los pasos
 * **[Crea una rama](https://guides.github.com/introduction/flow/)** para tus ediciones.
 * **Haz referencia a cualquier problema relevante** o documentaci&oacute;n de soporte en tu PR (por ejemplo "Cierra #37.")
 * **Incluye capturas de pantalla del antes y del despu&eacute;s** si tus cambios incluyen diferencias en el HTML o CSS. Arrastra y suelta las im&aacute;genes en el cuerpo de tu pull request.
-* **¡Has pruebas de tus cambios!** Corre tus cambios contra las pruebas existentes si realmente existen, y crea nuevas pruebas si es necesario. Sin importar que existan o no las pruebas, aseg&uacute;rate que tus cambios no produzcan roturas del proyecto existente.
+* **¡Haz pruebas de tus cambios!** Corre tus cambios contra las pruebas existentes si realmente existen, y crea nuevas pruebas si es necesario. Sin importar que existan o no las pruebas, aseg&uacute;rate que tus cambios no produzcan roturas del proyecto existente.
 * **Contribuye con el estilo del proyecto** con el m&aacute;ximo de tus capacidades. Esto significa utilizar indentaci&oacute;n, punto y comas o comentarios de manera diferente a lo que har&iacute;as en tu repositorio, pero que hacen m&aacute;s sencillo para los responsables combinar y para otros de entender y mantener el proyecto en el futuro.
 
 Si se trata de tu primer pull request, verifica [Haz un Pull Request](http://makeapullrequest.com/), que fue creado por @kentcdodds como un recurso de recorrido gratuito.
