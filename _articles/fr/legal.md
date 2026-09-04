@@ -28,11 +28,11 @@ Enfin, votre projet peut avoir des dépendances avec des exigences de licence do
 
 ## Les projets publics GitHub sont-ils open source
 
-Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creating-a-new-repository/) sur GitHub, vous avez la possibilité de créer le repository **privée** ou **public**.
+Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creating-a-new-repository/) sur GitHub, vous avez la possibilité de créer le repository **privé** ou **public**.
 
 ![Créer un référentiel](/assets/images/legal/repo-create-name.png)
 
-**Rendre public votre projet GitHub n'est pas la même chose que la licence de votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais votre travail n'est pas autorisé.
+**Rendre public votre projet GitHub est différent d'appliquer une licence à votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais par défaut aucune permission ne leur est accordé sur votre travail.
 
 Si vous souhaitez que d'autres personnes utilisent, distribuent, modifient ou contribuent à votre projet, vous devez inclure une licence open source. Par exemple, quelqu'un ne peut légalement utiliser aucune partie de votre projet GitHub dans son code, même s'il est public, à moins que vous ne lui donniez explicitement le droit de le faire.
 
@@ -98,13 +98,13 @@ En outre, en ajoutant de la "paperasse" jugée inutile, difficile à comprendre 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Nous avons éliminé le CLA pour Node.js. Cela réduit la barrière à l'entrée pour les contributeurs Node.js, élargissant ainsi la base des contributeurs.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Certaines situations où vous pourriez envisager un accord de contribution supplémentaire pour votre projet incluent:
 
-* Vos avocats veulent que tous les contributeurs acceptent expressément les termes de contribution (_signer_, en ligne ou hors ligne), peut-être parce qu'ils pensent que la licence Open Source n'est pas suffisante (même si c'est le cas !). Si c'est la seule préoccupation, un accord de contribution qui affirme la licence open source du projet devrait être suffisant. Le [Contrat de licence de contributeur individuel jQuery](https://contribute.jquery.org/CLA/) est un bon exemple d'accord de contributeur supplémentaire léger. Pour certains projets, un [Developer Certificate of Origin](https://github.com/probot/dco) peut être une alternative.
+* Vos avocats veulent que tous les contributeurs acceptent expressément les termes de contribution (_signer_, en ligne ou hors ligne), peut-être parce qu'ils pensent que la licence Open Source n'est pas suffisante (même si c'est le cas !). Si c'est la seule préoccupation, un accord de contribution qui affirme la licence open source du projet devrait être suffisant. Le [Contrat de licence de contributeur individuel jQuery](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) est un bon exemple d'accord de contributeur supplémentaire léger. Pour certains projets, un [Developer Certificate of Origin](https://github.com/probot/dco) peut être une alternative.
 * Votre projet utilise une licence open source qui n'inclut pas de brevet explicite (tel que MIT), et vous avez besoin d'une licence de brevet de tous les contributeurs, dont certains peuvent travailler pour des entreprises avec de grands portefeuilles de brevets qui pourraient vous servir ou les autres contributeurs et utilisateurs du projet. Le [Contrat de licence de contributeur individuel Apache](https://www.apache.org/licenses/icla.pdf) est un accord de contributeur supplémentaire communément utilisé qui a une licence de brevet reflétant celle de la licence Apache 2.0.
 * Votre projet est sous licence copyleft, mais vous devez également distribuer une version propriétaire du projet. Vous aurez besoin de chaque contributeur pour vous attribuer des droits d'auteur ou vous accorder (mais pas le public) une licence permissive. Le [Contrat de collaboration MongoDB](https://www.mongodb.com/legal/contributor-agreement) est un exemple de ce type d'accord.
 * Vous pensez que votre projet pourrait avoir besoin de changer de licence au cours de sa vie et que les contributeurs soient d'accord à l'avance sur de tels changements.
@@ -117,7 +117,7 @@ Si vous publiez un projet open source en tant qu'employé de l'entreprise, votre
 
 Pour le meilleur ou pour le pire, envisagez de les informer même s'il s'agit d'un projet personnel. Vous avez probablement avec votre entreprise un "accord IP d'employé" qui lui donne un certain contrôle sur vos projets, surtout s'ils sont liés à l'activité de l'entreprise ou si vous utilisez les ressources de l'entreprise pour développer le projet. Votre entreprise _devrait_ vous donner facilement la permission, et peut-être déjà à travers un accord de propriété intellectuelle favorable aux employés ou une politique d'entreprise. Sinon, vous pouvez négocier (par exemple, expliquer que votre projet répond aux objectifs d'apprentissage et de développement professionnel de l'entreprise pour vous), ou éviter de travailler sur votre projet jusqu'à ce que vous trouviez une meilleure entreprise.
 
-**Si vous êtes ouvrez la source d'un projet pour votre entreprise**, alors faites-le savoir. Votre équipe juridique a sans doute déjà des politiques de quelle licence open source (et peut-être un accord de contribution supplémentaire) à utiliser en fonction des besoins d'affaires de l'entreprise et de l'expertise assurant autour de votre projet est conforme aux licences de ses dépendances. Sinon, vous et ils ont de la chance! Votre équipe juridique devrait être impatiente de travailler avec vous pour comprendre ces choses. Quelques points à penser:
+**Si vous ouvrez la source d'un projet pour votre entreprise**, alors faites-le savoir. Votre équipe juridique a sans doute déjà des politiques de quelle licence open source (et peut-être un accord de contribution supplémentaire) à utiliser en fonction des besoins d'affaires de l'entreprise et de l'expertise assurant autour de votre projet est conforme aux licences de ses dépendances. Sinon, vous et ils ont de la chance! Votre équipe juridique devrait être impatiente de travailler avec vous pour comprendre ces choses. Quelques points à penser:
 
 * **Matériel de tiers :** Votre projet a-t-il des dépendances créées par d'autres ou inclut ou utilise le code d'autres personnes ? Si ceux-ci sont open source, vous devrez vous conformer aux licences open source des matériaux. Cela commence par choisir une licence qui fonctionne avec les licences open source tierces (voir ci-dessus). Si votre projet modifie ou distribue du matériel Open Source tiers, votre équipe juridique voudra également savoir que vous remplissez d'autres conditions des licences Open Source tierces, telles que la conservation des avis de copyright. Si votre projet utilise le code d'autres personnes n'ayant pas de licence Open Source, vous devrez probablement demander aux responsables de la maintenance tiers d'[ajouter une licence Open Source](https://choosealicense.com/no-license/#for-users), et si vous ne pouvez pas en obtenir un, arrêtez d'utiliser leur code dans votre projet.
 
@@ -133,18 +133,18 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
 
 À plus long terme, votre équipe juridique peut faire davantage pour aider l'entreprise à tirer le meilleur parti de son implication dans l'open source et à rester en sécurité:
 
-* **Règles de contribution des employés :** Envisagez de développer une politique d'entreprise qui spécifie comment vos employés contribuent aux projets open source. Une politique claire réduira la confusion parmi vos employés et les aidera à contribuer à des projets open source dans le meilleur intérêt de l'entreprise, que ce soit dans le cadre de leur travail ou pendant leur temps libre. Un bon exemple est Rackspace [Modèle IP et Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Règles de contribution des employés :** Envisagez de développer une politique d'entreprise qui spécifie comment vos employés contribuent aux projets open source. Une politique claire réduira la confusion parmi vos employés et les aidera à contribuer à des projets open source dans le meilleur intérêt de l'entreprise, que ce soit dans le cadre de leur travail ou pendant leur temps libre. Un bon exemple est Rackspace [Modèle IP et Open Source Contribution Policy](https://ospo.co/blog/crafting-your-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Laisser l'adresse IP associée à un correctif crée la base de connaissances et la réputation de l'employé. Cela montre que l'entreprise est investie dans le développement de cet employé et crée un sentiment d'autonomie et d'autonomie. Tous ces avantages mènent également à un meilleur moral et à une meilleure rétention des employés.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 
-* **Que publier :** [(Presque) tout ?](Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si votre équipe juridique comprend et est investis dans la stratégie open source de votre entreprise, ils seront les mieux placés pour vous aider plutôt que d'entraver vos efforts.
-* **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
+* **Que publier :** [(Presque) tout ?](Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si votre équipe juridique comprend et est investie dans la stratégie open source de votre entreprise, ils seront les mieux placés pour vous aider plutôt que d'entraver vos efforts.
+* **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
 
 <aside markdown="1" class="pquote">
   Les organisations doivent disposer d'une stratégie de licence et de conformité qui corresponde à la fois aux catégories \["permissive" et "copyleft"\]. Cela commence par garder une trace des conditions de licence qui s'appliquent aux logiciels open source que vous utilisez, y compris les sous-composants et les dépendances.
@@ -153,5 +153,5 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
   </p>
 </aside>
 
-* **Brevets :** Votre entreprise voudra peut-être rejoindre le [Open Invention Network](https://www.openinventionnetwork.com/), un pool de brevets défensif partagé pour protéger l'utilisation de projets open source majeurs par les membres, ou explorer autre [licence alternative de brevet](https://www.eff.org/document/hacking-patent-system-2016).
+* **Brevets :** Votre entreprise voudra peut-être rejoindre le [Open Invention Network](https://www.openinventionnetwork.com/), un pool de brevets défensif partagé pour protéger l'utilisation de projets open source majeurs par les membres, ou explorer une autre [licence alternative de brevet](https://www.eff.org/document/hacking-patent-system-2016).
 * **Gouvernance :** Surtout si et quand il est logique de transférer un projet à une [entité juridique extérieure à l'entreprise](../leadership-and-governance/#ai-je-besoin-dune-entit&eacute;-l&eacute;gale-pour-soutenir-mon-projet).

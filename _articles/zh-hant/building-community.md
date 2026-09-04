@@ -118,7 +118,7 @@ redirect_from: /zh-tw/building-community/
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   專案成功的關鍵在於擁有一個能互相支持的社群。如果沒有我的同事、網路上友善的陌生人以及聊天頻道 IRC 的幫助，我不可能做好這些工作。(...）不要退而求其次。不要容忍來搗亂的人。
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["如何運營一個 FOSS 專案"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "如何運營一個 FOSS 專案"
   </p>
 </aside>
 
@@ -164,13 +164,13 @@ redirect_from: /zh-tw/building-community/
 
 * **在專案中添加一個貢獻者列表或者作者列表** 記錄每一個參與貢獻的人。
 
-* 如果社群有了一定的規模，就 **發送一封信或者發表一篇文章** 感謝貢獻者們。[Rust 週報](https://this-week-in-rust.org/)和 Hoodie 的[Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)就是兩個非常好的範例。
+* 如果社群有了一定的規模，就 **發送一封信或者發表一篇文章** 感謝貢獻者們。[Rust 週報](https://this-week-in-rust.org/)和 Hoodie 的[Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html)就是兩個非常好的範例。
 
 * **給每個貢獻者提交的權限。**@發現這樣會使大家[越來越樂意發表他們的補丁](https://felixge.de/2013/03/11/the-pull-request-hack.html)，甚至找到人手來協助維護他已很久沒處理的專案。
 
 * 如果專案是放在 GitHub 上，那麼 **將專案從你們的個人賬號轉移到一個[組織](https://help.github.com/articles/collaborating-with-groups-in-organizations/)**，加入至少一個備份管理員。組織能讓社群與來自外界的貢獻，彼此協作的工作變得更加容易。
 
-事實上很多專案[只有一個或者兩個維護者](https://peerj.com/preprints/1233.pdf)去做大部分的工作。隨著社群變得越來越大，就會有更多的人參與進來。
+事實上很多專案[只有一個或者兩個維護者](https://peerj.com/preprints/1233/)去做大部分的工作。隨著社群變得越來越大，就會有更多的人參與進來。
 
 雖然並不是一直都有人在回答問題，但是你可以去試著增加一些機會，讓他人有能夠參與的機會，越是儘早開始，越是能夠獲得幫助。
 
@@ -178,7 +178,7 @@ redirect_from: /zh-tw/building-community/
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   對社群最有利的做法是招募喜歡你們專案的人，而且這個人還能夠做你們做不到的事情。你是否喜歡寫程式，但不喜歡回覆 issue ？ 那就讓社群裡能做這件事的人去做。
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["打造溫暖的社群"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["打造溫暖的社群"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
@@ -229,7 +229,7 @@ README [不僅僅是指導手冊](../starting-a-project/#編寫自述文件)。�
 Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊並不會遵循投票的結果。有時我們必須選擇我們認為是對的事，即使它不是主流看法。（...）我能做的是傾聽社群的意見，這也是我能保證提供的服務。
 
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom 決策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom 決策流程
   </p>
 </aside>
 

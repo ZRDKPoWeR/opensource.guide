@@ -105,7 +105,7 @@ Ha olyan hozzájárulást kapsz, amelyet nem akarsz elfogadni, akkor az első re
 
 Ne hagyj nyitva nem kívánt hozzájárulást, csak azért, mert bűntudatot éreznél attól, hogy lezárod. Az idő múlásával a megválaszolatlan kérdések és a nem kívánt beolvasztási kérelmek sokkal stresszesebbé és elrettentőbbé teszik a projekttel való munkát.
 
-Sokkal jobb, ha azonnal lezárod a hozzájárulást, ha nem akarod elfogadni. Ha a projekted már eleve nagy feladatlistával rendelkezik, akkor itt van @steveklabnik javaslata arra, hogy [hogyan priorizáld hatékonyan az issue-kat](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Sokkal jobb, ha azonnal lezárod a hozzájárulást, ha nem akarod elfogadni. Ha a projekted már eleve nagy feladatlistával rendelkezik, akkor itt van @steveklabnik javaslata arra, hogy [hogyan priorizáld hatékonyan az issue-kat](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Ugyanakkor a hozzájárulások rendszeres figyelmen kívül hagyása negatív jelet küldhet a közösségnek. A projekthez való hozzájárulás elrettentő is lehet, különösen, ha valaki először próbálja. Még ha nem is fogadod el az általa benyújtott hozzájárulást, becsüld meg azt a személyt aki benyújtotta, és mondj köszönetet az érdeklődése iránt, ez nagy dicséret!
 
@@ -223,7 +223,7 @@ Ha teszteket adsz hozzá, akkor bizonyosodj meg arról, hogy elmagyaráztad azt 
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Úgy gondolom, hogy tesztek szükségesek minden olyan kódhoz, amelyen az emberek dolgoznak. Ha a kód teljesen és tökéletesen helyes volt, akkor nem lenne szükség változtatásokra - csak akkor írunk kódot, ha valami nincs rendben, legyen az összeomlás vagy hiányzó funkció. És függetlenül attól, hogy milyen változtatásokat hajtunk végre, a tesztek elengedhetetlenek a véletlenszerűen bevezetett regressziós hibák kivédésében.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["A Rust közösségi automatizálása"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["A Rust közösségi automatizálása"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
@@ -237,7 +237,7 @@ A jó hír egy népszerű projekt fenntartásához az, hogy más karbantartók v
 * [mention-bot](https://github.com/facebook/mention-bot) a beolvasztási kérelemben megemlíti automatikusan a lehetséges embereket, akik a kódot majd átnézik (kód review)
 * [Danger](https://github.com/danger/danger) segít automatizálni a kód review-t
 * [no-response](https://github.com/probot/no-response) lezárja azokat az issue-kat, amelyekben az issue szerzője nem válaszolt a további információkérésre
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) minden nap ellenőrzi a függőségeket, ha talál frissebb verziót, akkor automatikusan beolvasztási kérelmet készít az új verzió számmal
+* [dependabot](https://github.com/dependabot) minden nap ellenőrzi a függőségeket, ha talál frissebb verziót, akkor automatikusan beolvasztási kérelmet készít az új verzió számmal
 
 A hiba jelzésekhez és más általános hozzájárulásokhoz a GitHub biztosít egy [hiba jelzés és beolvasztási kérelem formanyomtatványt](https://github.com/blog/2111-issue-and-pull-request-templates), amellyel egyszerűsíteni és egységesíteni tudod ezek beadását. @TalAter készített egy [Választásos Kalandjátékot](https://www.talater.com/open-source-templates/#/) hogy segítse ezen formanyomtatványok elkészítését.
 
@@ -265,7 +265,7 @@ Mint minden más munka esetén a rendszeres pihenők tartása felfrissít, boldo
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   A WP-CLI fenntartása során felfedeztem, hogy előbb boldoggá kell tennem magam, és egyértelmű határokat kell meghúznom. A legjobb egyensúlyt számomra a hetente 2-5 óra biztosította, a normál munkám részeként. Ez megőrzi a szenvedélyemet és nem érzem azt, hogy túl sokat dolgoztam volna. Mivel priorizálom a munkákat amelyeken dolgozom, így normálisan haladok a véleményem szerint legfontosabb dolgokkal.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Fogadd részvétem, mert Te most egy népszerű, nyílt forráskódú projekt karbantartója lettél"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Fogadd részvétem, mert Te most egy népszerű, nyílt forráskódú projekt karbantartója lettél"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

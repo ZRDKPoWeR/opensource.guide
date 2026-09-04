@@ -1,0 +1,30 @@
+name: Weekly External Link Check
+on:
+  schedule:
+    # Every Monday at 08:00 UTC
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v7
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@95ef2b042f9d7a56d8268cba8559e2842e2ad01b # v1
+        with:
+          bundler-cache: true
+      - name: Set up Node
+        uses: actions/setup-node@v7.0.0
+      - name: Bootstrap
+        run: script/bootstrap
+        env:
+          SKIP_BUNDLER: true
+      - name: Build site
+        run: script/build --config _config.yml,test/_config.yml
+      - name: Check links (including external URLs)
+        run: script/html-proofer
+        env:
+          CHECK_EXTERNAL_LINKS: true

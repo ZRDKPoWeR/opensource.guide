@@ -66,14 +66,6 @@ Ma sok embernek fizetnek részmunkaidőben vagy teljes munkaidőben nyílt forr�
 
 Egyszerűbb elérni ezt, ha az adott nyílt forráskódú projektet a munkaadód is használja. Lehet, hogy a munkaadód nem használja a projektet, de használja a Python-t, és egy népszerű Python projekt fenntartása segíti, hogy új Python fejlesztőket találjon a munkaadód. Ezzel a munkaadód még fejlesztő-barátabbnak tűnik.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Mint sokan mások a nyílt forráskódú közösségben, én is küzdöttem egy projekt fenntartásának terheivel. Amikor először kezdtem el a nyílt forráskódú munkát, későig maradtam a munkahelyemen, hogy dolgozhassak, vagy rögtön nekikezdtem, ahogy hazaértem. (...) Meg tudtam beszélni a vezetőmmel a problémákat, amikkel szembesültem és kitaláltuk, hogy mivel használjuk a Babel-t, be tudjuk beépíteni a nyílt forráskódú feladatokat a saját munkánkba.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Ha még nincs nyílt forráskódú projekted, amin dolgoznál, de szeretnéd, ha munkád eredménye nyílt forrású lenne, győzd meg a munkaadódat, hogy valamelyik belső projekt forráskódját tegye nyílttá.
 
 Számos cég fejleszt nyílt forráskódú programokat azért, hogy az imázsukat javítsák és a tehetséges fejlesztőket megszerezzék.
@@ -94,8 +86,7 @@ Ha a vállalatod ezt az utat választja, fontos, hogy a közösségi és a váll
 
 Ha nem tudod meggyőzni a jelenlegi munkáltatót a nyílt forráskódú munka fontosságáról, fontold meg, hogy keresel egy új munkaadót, aki ösztönzi a munkavállalók hozzájárulását a nyílt forráskódhoz. Keress olyan cégeket, amelyek kifejezetten a nyílt forráskódú munkát támogatják. Például:
 
-* Néhány cégnek, mint a [Netflix](https://netflix.github.io/) vagy a [PayPal](https://paypal.github.io/), külön weboldala van, amin a nyílt forráskódú munkát támogatják
-* [Zalando](https://opensource.zalando.com) publikálta a [nyílt forráskódban történő részvétel feltételeit](https://opensource.zalando.com/docs/using/contributing/) a munkavállalói számára
+* Néhány cégnek, mint a [Netflix](https://netflix.github.io/), külön weboldala van, amin a nyílt forráskódú munkát támogatják
 
 A nagy cégektől származó projektek, mint a [Go](https://github.com/golang) vagy a [React](https://github.com/facebook/react), szintén nagy valószínűséggel foglalkoztatnak embereket, hogy nyílt forráskódon dolgozzanak.
 
@@ -108,7 +99,7 @@ A személyes körülményeidtől függően megpróbálhatsz önállóan pénzt g
 Végül, néha a nyílt forráskódú projektek díjakat tűznek ki a hibák megoldására, amelyekkel kapcsolatban akár érdemes lehet segítséget nyújtani.
 
 * @ConnorChristie fizetséget kapott azért, mert [segített](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol -nak a JavaScript könyvtár fejlesztésében, mindezt a [gitcoin rendszeren keresztül](https://gitcoin.co/).
-* @mamiM elvégezte a japán nyelvi fordítást @MetaMask részére, melyet [a Bounties Network-ön keresztül finanszíroztak](https://explorer.bounties.network/bounty/134).
+* @mamiM elvégezte a japán nyelvi fordítást @MetaMask részére, melyet [a Bounties Network-ön keresztül finanszíroztak](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Találd meg a projekt finanszírozását
 
@@ -125,8 +116,7 @@ Könnyű szponzorokat találni, ha már erős közönséged vagy jó hírneved v
 Néhány példa:
 
 * **[webpack](https://github.com/webpack)** magánszemélyektől és cégektől is támogatáshoz jut [az OpenCollective-en keresztül](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** [a Patreon-on keresztül jut támogatáshoz](https://github.com/open-source/stories/yyx990803)
-* **[Ruby Together](https://rubytogether.org/),** egy non-profit szervezet, amely támogatja a [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), és egyéb Ruby infrastruktúra projekteket
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** egy non-profit szervezet, amely támogatja a [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), és egyéb Ruby infrastruktúra projekteket
 
 ### Hozz létre bevételi forrást
 

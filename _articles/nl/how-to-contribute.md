@@ -18,7 +18,7 @@ related:
   
   _Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!_
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Waarom ik graag bijdraag aan open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Waarom ik graag bijdraag aan open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -71,22 +71,11 @@ Een veel voorkomende misvatting over bijdragen aan open source is dat je code mo
   _I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
   
   <p markdown="1" class="pquote-credit">
-— @orta, ["Standaard naar OSS gaan"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Standaard naar OSS gaan"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
 Zelfs als je graag code schrijft, zijn andere soorten bijdragen een geweldige manier om bij een project betrokken te raken en andere leden van de gemeenschap te ontmoeten. Door die relaties op te bouwen, krijg je de kans om aan andere delen van het project te werken.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Ik nam voor het eerst contact op met het Python-ontwikkelingsteam (ook bekend als python-dev) toen ik de mailinglijst op 17 juni 2002 e-mailde over het accepteren van mijn patch. Ik ontdekte snel de open source-bug en besloot om e-mailsamenvattingen voor de groep te gaan beheren. Ze gaven me een geweldig excuus om opheldering over een onderwerp te vragen, maar kritischer merkte ik dat iemand op iets wees dat moest worden opgelost.
-  
-  _I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing._
-  
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
 
 ### Houd je van het plannen van evenementen?
 
@@ -106,7 +95,7 @@ Zelfs als je graag code schrijft, zijn andere soorten bijdragen een geweldige ma
 * Schrijf en verbeter de projectdocumentatie
 * Beheer een map met voorbeelden die laten zien hoe het project wordt gebruikt
 * Start een nieuwsbrief voor het project of cureer hoogtepunten uit de mailinglijst
-* Schrijf tutorials voor het project, [zoals de bijdragers van PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Schrijf tutorials voor het project, [zoals de bijdragers van PyPA](https://packaging.python.org/)
 * Schrijf een vertaling voor de documentatie van het project
 
 <aside markdown="1" class="pquote">
@@ -220,9 +209,9 @@ Open source is geen exclusieve club; het is gemaakt door mensen zoals jij. "Open
 
 U kunt een README lezen en een incorrecte link of typefout vinden. Of je bent een nieuwe gebruiker en je hebt gemerkt dat er iets kapot is, of een probleem waarvan je denkt dat het echt in de documentatie zou moeten staan. In plaats van het te negeren en verder te gaan, of iemand anders te vragen om het op te lossen, kijk of je kunt helpen door mee te doen. Dat is waar het bij open source om draait!
 
-> [28% van de losse bijdragen](https://www.igor.pro.br/publica/papers/saner2016.pdf) aan open source zijn documentatie, zoals een typefout, herformattering of het schrijven van een vertaling.
+> [28% van de losse bijdragen](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) aan open source zijn documentatie, zoals een typefout, herformattering of het schrijven van een vertaling.
 
-Als u op zoek bent naar bestaande problemen die u kunt oplossen, heeft elk open source-project een '/ contribute'-pagina die beginnersvriendelijke problemen belicht waarmee u kunt beginnen. Navigeer naar de hoofdpagina van de repository op GitHub en voeg '/ contribute' toe aan het einde van de URL (bijvoorbeeld [`https://github.com/facebook/react/contribute`](https://github.com/facebook/contribute/contribute)).
+Als u op zoek bent naar bestaande problemen die u kunt oplossen, heeft elk open source-project een '/ contribute'-pagina die beginnersvriendelijke problemen belicht waarmee u kunt beginnen. Navigeer naar de hoofdpagina van de repository op GitHub en voeg '/ contribute' toe aan het einde van de URL (bijvoorbeeld [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
 U kunt ook een van de volgende bronnen gebruiken om u te helpen bij het ontdekken van en bijdragen aan nieuwe projecten:
 
@@ -232,9 +221,9 @@ U kunt ook een van de volgende bronnen gebruiken om u te helpen bij het ontdekke
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Een checklist voordat u bijdraagt
 

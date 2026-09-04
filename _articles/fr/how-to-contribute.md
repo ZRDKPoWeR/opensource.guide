@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Travailler sur \[freenode\] m'a aidé à acquérir plusieurs des compétences que j'ai utilisées plus tard pour mes études à l'université et mon travail actuel. Je pense que travailler sur des projets open source m'aide autant que ça aide le projet !
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -62,19 +62,11 @@ Une idée commune fausse sur la contribution à l'open source est que vous devez
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Je suis renommé pour mon travail sur CocoaPods, mais la plupart des gens ne savent pas que je ne travaille pas vraiment sur l'outil CocoaPods lui-même. Mon temps sur le projet est principalement passé à faire des choses comme la documentation et à travailler sur l'image de marque.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
 Même si vous aimez écrire du code, d'autres types de contributions sont un excellent moyen de s'impliquer dans un projet et de rencontrer d'autres membres de la communauté. Construire ces relations vous donnera l'opportunité de travailler sur d'autres parties du projet.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  J'ai d'abord contacté l'équipe de développement de Python (alias python-dev) quand j'ai envoyé un mail à la liste de diffusion le 17 juin 2002 pour accepter mon patch. J'ai rapidement attrapé le bogue open source, et j'ai décidé de commencer à organiser des résumés d'emails pour le groupe. Ils m'ont donné une bonne excuse pour demander des éclaircissements sur un sujet, mais d'un point de vue plus critique je pouvais remarquer quand quelqu'un a signalait quelque chose qui avait besoin d'être réparé.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
 
 ### Aimez-vous la planification d'événements ?
 
@@ -94,7 +86,7 @@ Même si vous aimez écrire du code, d'autres types de contributions sont un exc
 * Écrire et améliorer la documentation du projet
 * Curate un dossier d'exemples montrant comment le projet est utilisé
 * Démarrer un bulletin d'information pour le projet, ou organiser des faits marquants de la liste de diffusion
-* Rédiger des tutoriels pour le projet, [comme les contributeurs de PyPA l'ont fait](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Rédiger des tutoriels pour le projet, [comme les contributeurs de PyPA l'ont fait](https://packaging.python.org/)
 * Écrire une traduction pour la documentation du projet
 
 <aside markdown="1" class="pquote">
@@ -205,7 +197,7 @@ L'open source n'est pas un club exclusif. C'est fait par des gens comme vous. "O
 
 Vous pouvez scanner un fichier README et trouver un lien cassé ou une faute de frappe. Ou vous êtes un nouvel utilisateur et vous avez remarqué que quelque chose est cassé, ou un problème que vous pensez devrait vraiment être dans la documentation. Au lieu de l'ignorer et de passer à autre chose, ou de demander à quelqu'un d'autre de le réparer, voyez si vous pouvez aider en faisant un descriptif du problème. C'est cela l'open source !
 
-> [28% des contributions occasionnelles](https://www.igor.pro.br/publica/papers/saner2016.pdf) à l'open source sont de la documentation, une correction de faute de frappe, un reformatage ou l'écriture d'une traduction.
+> [28% des contributions occasionnelles](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) à l'open source sont de la documentation, une correction de faute de frappe, un reformatage ou l'écriture d'une traduction.
 
 Vous pouvez également utiliser l'une des ressources suivantes pour vous aider à découvrir et à contribuer à de nouveaux projets :
 
@@ -215,9 +207,9 @@ Vous pouvez également utiliser l'une des ressources suivantes pour vous aider �
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Une checklist avant de contribuer
 
@@ -255,7 +247,7 @@ Regardez l'activité des commits sur la branche principale. Sur GitHub, vous pou
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  À quelle fréquence les gens commmits ? (Sur GitHub, vous pouvez le trouver en cliquant sur "Commits" dans la barre du haut.)
+  À quelle fréquence les gens commits ? (Sur GitHub, vous pouvez le trouver en cliquant sur "Commits" dans la barre du haut.)
   </label>
 </div>
 
@@ -505,7 +497,7 @@ Si vous faites une contribution et que personne ne répond, il est possible que 
 
 Il est courant que l'on vous demande d'apporter des modifications à votre contribution, qu'il s'agisse de commentaires sur la portée de votre idée ou de modifications apportées à votre code.
 
-Quand quelqu'un demande des changements, soyez flexible. Ils ont pris le temps d'examiner votre contribution. Ouvrir une PR et passer a autre chose est une mauvaise idée. Si vous ne savez pas comment faire des changements, recherchez le problème, puis demandez de l'aide si vous en avez besoin.
+Quand quelqu'un demande des changements, soyez flexible. Ils ont pris le temps d'examiner votre contribution. Ouvrir une PR et passer à autre chose est une mauvaise idée. Si vous ne savez pas comment faire des changements, recherchez le problème, puis demandez de l'aide si vous en avez besoin.
 
 Si vous n'avez plus le temps de travailler sur le problème (par exemple, si la conversation dure depuis des mois et que votre situation a changé), informez le responsable pour qu'il n'attende pas de réponse. Quelqu'un d'autre peut être heureux de prendre le relais.
 

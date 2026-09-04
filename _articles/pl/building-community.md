@@ -33,7 +33,7 @@ Zacznij od dokumentacji:
 [Ankieta GitHuba 2017 Open Source](http://opensourcesurvey.org/2017/) wykazała, że niekompletna lub myląca dokumentacja jest największym problemem dla użytkowników open source. Dobra dokumentacja zachęca ludzi do interakcji z Twoim projektem. W końcu ktoś otworzy problem lub wyciągnie prośbę. Użyj tych interakcji jako okazji do przeniesienia ich w dół ścieżki.
 
 * **Gdy ktoś nowy wyląduje w twoim projekcie, podziękuj mu za zainteresowanie!** Wystarczy jedno negatywne doświadczenie, aby ktoś już nie chciał wracać.
-* **Reaguj szybko.** Jeśli nie odpowiesz na ich problem przez miesiąc, są szanse, że już zapomnną o twoim projekcie.
+* **Reaguj szybko.** Jeśli nie odpowiesz na ich problem przez miesiąc, są duże szanse, że zapomnną o twoim projekcie.
 * **Miej otwarty umysł na typy wkładów, które akceptujesz.** Wielu autorów zaczyna od zgłoszenia błędu lub drobnej poprawki. Istnieje [wiele sposobów na wniesienie wkładu](../how-to-contribute/#co-to-znaczy-przyczynić-się) do projektu. Pozwól ludziom pomóc, jak chcą pomóc.
 * **Jeśli masz wkład, z którym się nie zgadzasz,** podziękuj im za pomysł i [wyjaśnij dlaczego](../best-practices/#naucz-się-mówić-nie) to nie pasuje do zakresu projektu, zawierając link do odpowiedniej dokumentacji.
 
@@ -47,9 +47,9 @@ Zacznij od dokumentacji:
   </p>
 </aside>
 
-Większość współpracowników open source to „przypadkowi współpracownicy”: ludzie, którzy przyczyniają się do projektu tylko sporadycznie. Przypadkowy współpracownik może nie mieć czasu, aby w pełni przyspieszyć swój projekt, więc Twoim zadaniem jest ułatwienie im wnoszenia wkładu.
+Większość współpracowników open source to „przypadkowi współpracownicy”: ludzie, którzy przyczyniają się do projektu tylko sporadycznie. Przypadkowy współpracownik może nie mieć czasu, aby w pełni przyspieszyć Twój projekt, więc Twoim zadaniem jest ułatwienie im wnoszenia wkładu.
 
-Zachęcanie innych współpracowników to także inwestycja w ciebie. Gdy umożliwisz swoim największym fanom bieganie z pracą, którą są podekscytowani, zmniejszysz presję, aby zrobić wszystko sam.
+Zachęcanie innych współpracowników to także inwestycja w ciebie. Gdy umożliwisz swoim największym fanom bieganie z pracą, którą są podekscytowani, zmniejszysz presję, aby robić wszystko sam.
 
 ### Wszystko dokumentuj
 
@@ -67,21 +67,21 @@ Kiedy zaczynasz nowy projekt, naturalne może być zachowanie prywatności w pra
 
 Kiedy spisujesz rzeczy, więcej osób może brać udział na każdym etapie. Możesz uzyskać pomoc dotyczącą czegoś, o czym nawet nie wiedziałeś, że potrzebujesz.
 
-Zapisywanie rzeczy to coś więcej niż dokumentacja techniczna. Za każdym razem, gdy poczujesz potrzebę napisania czegoś lub prywatnie przedyskutuj swój projekt, zadaj sobie pytanie, czy możesz to upublicznić.
+Zapisywanie rzeczy to coś więcej niż dokumentacja techniczna. Za każdym razem, gdy poczujesz potrzebę coś zapisać lub prywatnie przedyskutować swój projekt, zadaj sobie pytanie, czy możesz to upublicznić.
 
 Zachowaj przejrzystość na temat planu projektu, rodzajów wkładów, których szukasz, sposobu ich sprawdzania lub powodów, dla których podjąłeś określone decyzje.
 
 Jeśli zauważysz, że wielu użytkowników napotyka ten sam problem, udokumentuj odpowiedzi w pliku README.
 
-W przypadku spotkań rozważ opublikowanie notatek lub wynos w odpowiednim numerze. Informacje zwrotne uzyskane z tego poziomu przejrzystości mogą Cię zaskoczyć.
+W przypadku spotkań rozważ opublikowanie swoich notatek lub treści w odpowiednim wydaniu. Uzyskane informacje zwrotne mogą Cię zaskoczyć.
 
 Dokumentowanie wszystkiego dotyczy także wykonywanej pracy. Jeśli pracujesz nad istotną aktualizacją projektu, prześlij ją do pull requesta i oznacz jako trwającą (WIP). W ten sposób inne osoby mogą wcześnie poczuć się zaangażowane w ten proces.
 
 ### Bądź responsywny
 
-Jak [promujesz swój projekt](../finding-users/), ludzie będą mieli dla ciebie opinie. Mogą mieć pytania dotyczące sposobu działania lub potrzebują pomocy na początku.
+Gdy [promujesz swój projekt](../finding-users/), ludzie będą mieli dla ciebie opinie. Mogą mieć pytania dotyczące sposobu działania lub potrzebują pomocy na początku.
 
-Postaraj się reagować, gdy ktoś zgłosi problem, prześle pull request lub zadaje pytanie o Twój projekt. Gdy odpowiesz szybko, ludzie poczują, że są częścią dialogu i będą bardziej entuzjastycznie nastawieni do uczestnictwa.
+Postaraj się reagować, gdy ktoś zgłosi problem, prześle pull request lub zadaje pytanie o Twój projekt. Gdy odpowiesz szybko, ludzie poczują, że są częścią dialogu i będą bardziej entuzjastycznie nastawieni do uczestnictwa w projekcie.
 
 Nawet jeśli nie możesz natychmiast przejrzeć żądania, jego wcześniejsze potwierdzenie pomaga zwiększyć zaangażowanie. Oto jak @tdreyno odpowiedział na pull request na [Middleman](https://github.com/middleman/middleman/pull/1466):
 
@@ -95,11 +95,11 @@ Rozmowy na temat Twojego projektu mogą odbywać się również w innych miejsca
 
 Istnieją dwa powody, aby dać społeczności możliwość gromadzenia się.
 
-Pierwszy powód jest dla nich. Pomóż ludziom się poznać. Ludzie o wspólnych zainteresowaniach nieuchronnie będą chcieli o tym porozmawiać. A gdy komunikacja jest publiczna i dostępna, każdy może czytać poprzednie archiwa, aby przyspieszyć i wziąć udział.
+Pierwszy powód jest dla nich. Pomóż ludziom się poznać. Ludzie o wspólnych zainteresowaniach będą chcieli o tym porozmawiać. A gdy komunikacja jest publiczna i dostępna, każdy może czytać archiwa, aby zapoznać się z projektem i wziąć w nim udział.
 
-Drugi powód jest dla ciebie. Jeśli nie dasz ludziom publicznego miejsca na rozmowę o twoim projekcie, prawdopodobnie skontaktują się z tobą bezpośrednio. Na początku może wydawać się dość łatwe odpowiadanie na prywatne wiadomości „tylko raz”. Ale z czasem, szczególnie jeśli twój projekt stanie się popularny, poczujesz się wyczerpany. Oprzyj się pokusie prywatnego komunikowania się z ludźmi na temat twojego projektu. Zamiast tego skieruj je do wyznaczonego kanału publicznego.
+Drugi powód jest dla ciebie. Jeśli nie dasz ludziom publicznego miejsca na rozmowę o twoim projekcie, prawdopodobnie skontaktują się z tobą bezpośrednio. Na początku może wydawać się dość łatwe odpowiadanie na prywatne wiadomości „tylko raz”. Ale z czasem, szczególnie jeśli twój projekt stanie się popularny, poczujesz się wyczerpany. Oprzyj się pokusie prywatnego komunikowania się z ludźmi na temat twojego projektu. Zamiast tego skieruj ich do wyznaczonego kanału publicznego.
 
-Komunikacja publiczna może być tak prosta, jak nakłanianie ludzi do otwarcia problemu zamiast bezpośredniego wysyłania e-maili lub komentowania na blogu. Możesz także skonfigurować listę mailingową lub utworzyć konto na Twitterze, Slack lub kanał IRC, aby ludzie mogli porozmawiać o twoim projekcie. Lub wypróbuj wszystkie powyższe!
+Komunikacja publiczna może być tak prosta, jak nakłanianie ludzi do otwarcia problemu zamiast bezpośredniego wysyłania e-maili lub komentowania na blogu. Możesz także skonfigurować listę mailingową lub utworzyć konto na Twitterze, Slack lub kanał IRC, aby ludzie mogli rozmawiać o twoim projekcie. Lub wypróbuj wszystkie powyższe!
 
 [Kubernetes kops](https://github.com/kubernetes/kops#getting-involved) co drugi tydzień przeznacza godziny urzędowania, aby pomóc członkom społeczności:
 
@@ -109,13 +109,13 @@ Ważnymi wyjątkami od komunikacji publicznej są: 1) kwestie bezpieczeństwa i 
 
 ## Rozwijanie społeczności
 
-Społeczności są niezwykle potężne. Ta moc może być błogosławieństwem lub przekleństwem, w zależności od tego, jak ją władasz. Gdy społeczność twojego projektu rośnie, istnieją sposoby, aby pomóc mu stać się siłą budowy, a nie zniszczenia.
+Społeczności są niezwykle potężne. Ta moc może być błogosławieństwem lub przekleństwem, w zależności od tego, jak ją władasz. Gdy społeczność twojego projektu rośnie, istnieją sposoby, aby pomócjej stać się siłą kontruktywną, a nie destruktywną.
 
 ### Nie toleruj złych aktorów
 
-Każdy popularny projekt nieuchronnie przyciągnie ludzi, którzy krzywdzą, a nie pomagają twojej społeczności. Mogą rozpocząć niepotrzebne debaty, pokłócić się z trywialnymi funkcjami lub zastraszyć innych.
+Każdy popularny projekt nieuchronnie przyciągnie ludzi, którzy bardziej szkodzą niż pomagają twojej społeczności. Mogą rozpocząć niepotrzebne debaty, spierać się o trywialne funkcje lub zastraszać innych.
 
-Staraj się przyjąć politykę zerowej tolerancji dla tego rodzaju ludzi. Jeśli pozostanie niezaznaczone, negatywni ludzie sprawią, że inni ludzie w Twojej społeczności będą się niekomfortowo Mogą nawet odejść.
+Staraj się przyjąć politykę zerowej tolerancji dla tego rodzaju ludzi. Jeśli takie zachowanie pozostanie niezauważone, negatywni ludzie sprawią, że inni ludzie w Twojej społeczności będą czuć się niekomfortowo. Mogą nawet odejść.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
@@ -123,11 +123,11 @@ Staraj się przyjąć politykę zerowej tolerancji dla tego rodzaju ludzi. Jeśl
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   </i>
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
-Regularne debaty na temat trywialnych aspektów projektu odwracają uwagę innych, w tym ciebie, od koncentrowania się na ważnych zadaniach. Nowe osoby, które przybędą do Twojego projektu, mogą zobaczyć te rozmowy i nie chcą brać udziału.
+Regularne debaty na temat trywialnych aspektów projektu odwracają uwagę innych, w tym ciebie, od koncentrowania się na ważnych zadaniach. Nowe osoby, które przybędą do Twojego projektu, mogą zobaczyć te rozmowy i nie chcą brać w nich udziału.
 
 Kiedy zobaczysz negatywne zachowanie w twoim projekcie, wywołaj to publicznie. Wyjaśnij, życzliwym, ale zdecydowanym tonem, dlaczego ich zachowanie jest nie do przyjęcia. Jeśli problem będzie się powtarzał, być może będziesz musiał [poprosić ich o odejście](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/code-of-conduct.md/#enforcing-your-code-of-conduct). Twój [kodeks postępowania](../code-of-conduct/) może być konstruktywnym przewodnikiem dla tych rozmów.
 
@@ -161,7 +161,7 @@ Na przykład oto jak [Rubinius](https://github.com/rubinius/rubinius/) zaczyna [
   </p>
 </aside>
 
-Ludzie są podekscytowani, że mogą uczestniczyć w projektach, kiedy mają poczucie własności. Nie oznacza to, że musisz zmienić wizję swojego projektu lub zaakceptować wkład, którego nie chcesz. Ale im więcej dajesz uznanie innym, tym bardziej będą się trzymać.
+Ludzie są podekscytowani, że mogą uczestniczyć w projektach, kiedy mają poczucie własności. Nie oznacza to, że musisz zmienić wizję swojego projektu lub zaakceptować wkład, którego nie chcesz. Ale im więcej dajesz uznania innym, tym bardziej będą się trzymać.
 
 Sprawdź, czy możesz w jak największym stopniu znaleźć sposób na dzielenie się własnością ze społecznością. Oto kilka pomysłów:
 
@@ -171,13 +171,13 @@ Sprawdź, czy możesz w jak największym stopniu znaleźć sposób na dzielenie 
 
 * **Uruchom plik CONTRIBUTORS lub AUTHORS w swoim projekcie** zawiera listę wszystkich, którzy przyczynili się do twojego projektu, takich jak [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Jeśli masz sporą społeczność, **wyślij biuletyn lub napisz post na blogu** dziękując autorom. Rusta [This Week in Rust](https://this-week-in-rust.org/) i Hoodie'ego [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) są dwoma dobrymi przykładami
+* Jeśli masz sporą społeczność, **wyślij biuletyn lub napisz post na blogu** dziękując autorom. Rusta [This Week in Rust](https://this-week-in-rust.org/) i Hoodie'ego [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) są dwoma dobrymi przykładami
 
-* **Daj dostęp każdemu współautorowi.** @felixge stwierdził, że to sprawiło, że ludzie [bardziej podekscytowani polerowaniem swoich łat](https://felixge.de/2013/03/11/the-pull-request-hack.html), a nawet znalazł nowych opiekunów dla projektów, nad którymi on od jakiegoś czasu nie pracował.
+* **Daj dostęp każdemu współautorowi.** @felixge stwierdził, że to sprawiło, że ludzie są [bardziej podekscytowani dopracowywaniem swoich łat](https://felixge.de/2013/03/11/the-pull-request-hack.html), a nawet znalazł nowych opiekunów dla projektów, nad którymi on od jakiegoś czasu nie pracował.
 
 * Jeśli Twój projekt jest w serwisie GitHub, **przenieś swój projekt z konta osobistego do [Organizacji](https://help.github.com/articles/creating-a-new-organization-account/)** i dodaj co najmniej jednego administratora kopii zapasowych. Organizacje ułatwiają pracę nad projektami z zewnętrznymi współpracownikami.
 
-Rzeczywistość jest taka, że [większość projektów ma tylko](https://peerj.com/preprints/1233.pdf) jednego lub dwóch opiekunów, którzy wykonują większość pracy. Im większy projekt i większa społeczność, tym łatwiej jest znaleźć pomoc.
+Rzeczywistość jest taka, że [większość projektów ma tylko](https://peerj.com/preprints/1233/) jednego lub dwóch opiekunów, którzy wykonują większość pracy. Im większy projekt i większa społeczność, tym łatwiej jest znaleźć pomoc.
 
 Chociaż nie zawsze możesz znaleźć kogoś, kto odbierze połączenie, wysłanie sygnału zwiększa szanse na pojawienie się innych osób. Im wcześniej zaczniesz, tym szybciej ludzie mogą pomóc.
 
@@ -187,7 +187,7 @@ Chociaż nie zawsze możesz znaleźć kogoś, kto odbierze połączenie, wysłan
   \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
   </i>
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
@@ -203,7 +203,7 @@ W większości przypadków, jeśli kultywujesz przyjazną, pełną szacunku spo�
 
 Gdy Twoja społeczność zmaga się z trudnym problemem, temperament może wzrosnąć. Ludzie mogą się złościć lub sfrustrować i wyładowywać się na sobie nawzajem lub na tobie.
 
-Twoim zadaniem jako opiekuna jest zapobieganie eskalacji tych sytuacji. Nawet jeśli masz silną opinię na ten temat, spróbuj zająć stanowisko moderatora lub facylitatora, zamiast skakać do walki i popychać swoje poglądy. Jeśli ktoś jest nieuprzejmy lub monopolizuje rozmowę, [działaj natychmiast](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/building-community.md/#dont-tolerate-bad-actors) aby dyskusje były spokojne i owocne.
+Twoim zadaniem jako opiekuna jest zapobieganie eskalacji tych sytuacji. Nawet jeśli masz silną opinię na ten temat, spróbuj zająć stanowisko moderatora lub facylitatora, zamiast wskakiwać do walki i forsować swoje poglądy. Jeśli ktoś jest nieuprzejmy lub monopolizuje rozmowę, [działaj natychmiast](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/building-community.md/#dont-tolerate-bad-actors) aby dyskusje były spokojne i owocne.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
@@ -225,7 +225,7 @@ Twój plik README to [więcej niż tylko zestaw instrukcji](../starting-a-projec
 
 ### Skoncentruj się na podróży, a nie na celu
 
-Niektóre projekty wykorzystują proces głosowania do podejmowania ważnych decyzji. Na pierwszy rzut oka rozsądne, ale głosowanie kładzie nacisk na dotarcie do „odpowiedzi”, a nie na wzajemne słuchanie i rozwiązywanie problemów.
+Niektóre projekty wykorzystują proces głosowania do podejmowania ważnych decyzji. Na pierwszy rzut oka to jest rozsądne, ale głosowanie kładzie nacisk na dotarcie do „odpowiedzi”, a nie na wzajemnym słuchaniu i rozwiązywaniu problemów.
 
 Głosowanie może mieć charakter polityczny, w którym członkowie społeczności czują się zmuszeni do wzajemnego wyświadczania przysług lub głosowania w określony sposób. Nie wszyscy też głosują, czy też jest to [cicha większość](https://ben.balter.com/2016/03/08/optimizing-for-power-users-and-edge-cases/#the-silent-majority-of-users) w Twojej społeczności lub obecni użytkownicy, którzy nie wiedzieli, że głosowanie ma miejsce.
 
@@ -239,21 +239,21 @@ W ramach procesu poszukiwania konsensusu członkowie społeczności omawiają g�
   Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
   </i>
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 
-Nawet jeśli tak naprawdę nie przyjmujesz procesu poszukiwania konsensusu, jako opiekun projektu ważne jest, aby ludzie wiedzieli, że słuchasz. Sprawienie, by inni poczuli się wysłuchani i zobowiązanie się do rozwiązania swoich problemów, znacznie przyczynia się do rozproszenia wrażliwych sytuacji. Następnie postępuj zgodnie ze swoimi słowami za pomocą działań.
+Nawet jeśli tak naprawdę nie przyjmujesz procesu poszukiwania konsensusu, jako opiekun projektu ważne jest, aby ludzie wiedzieli, że słuchasz. Sprawienie, by inni poczuli się wysłuchani i zobowiązanie się do rozwiązania ich obaw, znacznie przyczynia się do rozproszenia wrażliwych sytuacji. Następnie postępuj zgodnie ze swoimi słowami za pomocą działań.
 
-Nie spiesz się z decyzją ze względu na rozwiązanie. Upewnij się, że wszyscy czują się słyszani i że wszystkie informacje zostały upublicznione przed przejściem do rozwiązania.
+Nie spiesz się z decyzją. Upewnij się, że wszyscy czują się wysłuchani i że wszystkie informacje zostały upublicznione przed przejściem do rozwiązania.
 
 ### Skoncentruj rozmowę na działaniu
 
 Dyskusja jest ważna, ale istnieje różnica między produktywnymi i nieproduktywnymi rozmowami.
 
-Zachęcaj do dyskusji, o ile aktywnie dąży do rozwiązania. Jeśli jest oczywiste, że rozmowa gubi się lub odchodzi od tematu, dźgnięcia stają się osobiste lub ludzie kłócą się o drobne szczegóły, nadszedł czas, aby je zamknąć.
+Zachęcaj do dyskusji, o ile aktywnie dąży ona do rozwiązania problemu. Jeśli jest oczywiste, że rozmowa gubi się lub odchodzi od tematu, dźgnięcia stają się osobiste lub ludzie kłócą się o drobne szczegóły, nadszedł czas, aby ją zamknąć.
 
-Zezwolenie na kontynuowanie tych rozmów jest nie tylko szkodliwe dla omawianego problemu, ale także niekorzystne dla zdrowia Twojej społeczności. Wysyła wiadomość, że tego rodzaju rozmowy są dozwolone, a nawet zachęcane, i może zniechęcać ludzi do podnoszenia lub rozwiązywania przyszłych problemów.
+Zezwolenie na kontynuowanie tych rozmów jest nie tylko szkodliwe dla omawianego problemu, ale także niekorzystne dla Twojej społeczności. Wysyła wiadomość, że tego rodzaju rozmowy są dozwolone, a nawet zachęcane, i może zniechęcać ludzi do podnoszenia lub rozwiązywania przyszłych problemów.
 
 W każdym punkcie przedstawionym przez ciebie lub przez innych zadawaj sobie pytanie: _"W jaki sposób zbliża nas to do rozwiązania?"_
 
@@ -271,9 +271,9 @@ Jeśli rozmowa najwyraźniej nigdzie się nie kończy, nie ma wyraźnych działa
   </p>
 </aside>
 
-### Wybierz mądrze swoje bitwy
+### Mądrze wybieraj swoje bitwy
 
-Kontekst jest ważny. Zastanów się, kto jest zaangażowany w dyskusję i jak reprezentują resztę społeczności.
+Kontekst jest ważny. Zastanów się, kto jest zaangażowany w dyskusję i jak reprezentuje resztę społeczności.
 
 Czy wszyscy w społeczności są zaniepokojeni, czy nawet zaangażowani w ten problem? A może samotny problemator? Nie zapomnij wziąć pod uwagę swoich cichych członków społeczności, a nie tylko aktywnych głosów.
 
@@ -289,4 +289,4 @@ Twój remis powinien być ostatecznością. Problemy dzielące są szansą dla T
 
 ## Społeczność jest ❤️ open source
 
-Zdrowe, dobrze prosperujące społeczności napędzają tysiące godzin wkładanych w open source każdego tygodnia. Wielu współautorów wskazuje inne osoby jako powód do pracy - lub nie - pracy na otwartym oprogramowaniu. Ucząc się, jak konstruktywnie wykorzystać tę moc, pomożesz komuś, aby doświadczył niezapomnianych wrażeń open source.
+Zdrowe, dobrze prosperujące społeczności napędzają tysiące godzin wkładanych w open source każdego tygodnia. Wielu współautorów wskazuje inne osoby jako powód do pracy - lub nie - nad otwartym oprogramowaniem. Ucząc się, jak konstruktywnie wykorzystać tę moc, pomożesz komuś, aby doświadczył niezapomnianych wrażeń open source.

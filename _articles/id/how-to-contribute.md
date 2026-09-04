@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Bekerja pada \[freenode\] membantu saya mendapatkan banyak ketrampilan yang saya gunakan pada pembelajaran di universitas dan pekerjaan saya nantinya. Saya pikir bekerja pada proyek open source membantu saya sebanyak saya membantu proyek itu sendiri.!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -62,19 +62,11 @@ Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Saya menjadi terkenal karena pekerjaan saya pada CocoaPods, tetapi banyak orang tidak tahu bahwa saya tidak melakukan pekerjaan yang berarti pada perangkat CocoaPods itu sendiri. Waktu saya pada proyek lebih banyak dihabiskan untuk melakukan kegiatan seperti dokumentasi dan pencitraan.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
 Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan cara yang baik untuk bisa berpartisipasi pada proyek dan bertemu dengan anggota komunitas lainnya. Membangun hubungan tersebut akan memberikan Anda kesempatan untuk bekerja pada bagian lain dari proyek.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Saya pertama kali menghubungi tim pengembang Python (python-dev) ketika saya mengirimkan pesan email kepada mailing list pada 17 Juni 2002 tentang perbaikan dari saya. Saya dengan cepat menemukan kesalahan, dan memutuskan untuk mulai memilih email dari grup. Mereka memberikan saya alasan yang baik untuk bertanya tentang klarifikasi sebuah topik, tetapi yang lebih penting lagi saya mampu mendeteksi apabila seseorang menunjukkan sesuatu yang perlu diperbaiki.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
 
 ### Apakah Anda suka merencanakan kegiatan?
 
@@ -205,7 +197,7 @@ Open source bukanlah klub ekslusif; Open source dibuat oleh orang-orang seperti 
 
 Anda bisa melihat dokumen README dan menemukan tautan yang tidak valid atau kesalahan pengetikkan. Atau Anda sebagai pengguna baru dan melihat bahwa ada yang salah, atau sebuah laporan dimana Anda rasa penting untuk didokumentasikan. Daripada mengabaikannya, atau meminta orang lain untuk memperbaikinya, cari tahu apakah Anda bisa membantu dengan ikut serta didalamnya. Itulah makna sesungguhnya dari open source!
 
-> [28% dari kontribusi umum](https://www.igor.pro.br/publica/papers/saner2016.pdf) pada open source adalah berupa dokumentasi, seperti kesalahan pengetikkan, pemformatan ulang, atau menuliskan terjemahan.
+> [28% dari kontribusi umum](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) pada open source adalah berupa dokumentasi, seperti kesalahan pengetikkan, pemformatan ulang, atau menuliskan terjemahan.
 
 Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk mencari dan berkontribusi pada proyek baru:
 
@@ -215,9 +207,9 @@ Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk me
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Daftar sebelum Anda berkontribusi
 

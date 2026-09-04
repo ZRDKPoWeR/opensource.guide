@@ -102,7 +102,7 @@ redirect_from: /zh-tw/best-practices/
 
 別因爲自己感到內疚或者想做一個好人就把你不想接受的貢獻繼續保留。隨著時間的流逝，這些你沒有回答的issue和PR會讓你覺得很不爽。
 
-更好的方式是馬上關掉你不想接受的貢獻。如果你的專案已經飽受積壓的issue的折磨，@steveklabnik 可以給你點建議，[如何高效率的解決issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
+更好的方式是馬上關掉你不想接受的貢獻。如果你的專案已經飽受積壓的issue的折磨，@steveklabnik 可以給你點建議，[如何高效率的解決issue](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener)。
 
 第二點，忽略別人的貢獻等於是在社群傳遞了一個負面的信號。讓人感覺提交一個貢獻是蠻恐懼的事情，尤其是對於剛加入的新手來說。即使你不接受他們的貢獻，告訴他們爲什麼然後致謝。這會讓人覺得更舒服。
 
@@ -217,7 +217,7 @@ fork一個專案不什麼壞事情。能複製並且修改別人的程式是開�
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   我相信測試對所有的程式都是需要的。如果程式被完整的覆蓋了測試，以後就不需要改了。我們只需要在程式崩潰或者需要某個功能的添加程式。不管你在修改什麼，測試對於檢查那些你可能不小心製造的問題都是必須的。
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust 社群的自動化"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust 社群的自動化"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
@@ -255,7 +255,7 @@ fork一個專案不什麼壞事情。能複製並且修改別人的程式是開�
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   我是WP-CLI的維護者，我發現我需要首先讓自己開心，在開源專案和其他事情之間設定清楚的界限。我發現最好的平衡點就是每週在日常的工作安排中花2-5小時在這上面。這會讓我從感覺太累到保持持續的激情。因爲我給我需要解決的issue表上了優先級，從而我能夠在我認爲重要的事情上有所進展。
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["我的悼文，你現在是一個非常流行的專案的維護者"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["我的悼文，你現在是一個非常流行的專案的維護者"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

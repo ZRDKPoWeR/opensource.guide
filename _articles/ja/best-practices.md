@@ -66,7 +66,7 @@ related:
 * どのくらいの時間をプロジェクトに使えるか（ _例えば、「我々はこのプロジェクトに週5時間しか使いません。」_ ）
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs) や [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) 、 [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) は、メンテナーとコントリビューターのための基本ルールを定めたプロジェクトの良い例です。
- 
+
 ### コミュニケーションを公開しよう
 
 あなたのやり取りをドキュメント化することも忘れないようにしましょう。可能な限りどこでも、プロジェクトについてのコミュニケーションを公開しましょう。機能要望やサポートリクエストについてプライベートにコンタクトしてくる人がいたら、彼らをメーリングリストやイシュートラッカーのようなパブリックなコミュニケーションチャネルに丁寧に誘導しましょう。
@@ -105,7 +105,7 @@ related:
 
 望ましくないコントリビュートをオープンのまま放置しないようにしましょう。放置すると罪悪感を感じたり親切になろうとしてしまいます。時間が経つにつれて、回答されていないイシューやプルリクエストによって、プロジェクトを進めることがストレスを伴い、恐怖を感じるものになってしまいます。
 
-受け入れるつもりのないコントリビュートはすぐに閉じてしまうのが良いです。もし既に膨大なバックログで困っているのであれば、 @steveklabnik の[イシューを効率的にトリアージする方法](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)が役に立つでしょう。
+受け入れるつもりのないコントリビュートはすぐに閉じてしまうのが良いです。もし既に膨大なバックログで困っているのであれば、 @steveklabnik の[イシューを効率的にトリアージする方法](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener)が役に立つでしょう。
 
 また、コントリビュートを無視することはコミュニティに悪い影響を与えます。プロジェクトにコントリビュートすることは威圧感があります。特に初めてのコントリビュートであればなおさらです。たとえ、そのコントリビュートを受け入れないとしても、その人に対して受け入れない旨と感謝の気持ちを伝えましょう。それは大きな賛辞となります！
 
@@ -221,7 +221,7 @@ related:
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   私は人々が実装するあらゆるコードに対してテストが必要だと思っています。もしコードが完全に正しいのであれば、変更の必要はありませんが、 私達がコードを書くときは何かがおかしいときです、それは「クラッシュする」であったり「これこれの機能が足りない」といったようなケースです。どんな変更をしようとしているのであれ、テストは誤ってバグを入れ込んでしまう事を防ぐために非常に重要です。
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
@@ -261,7 +261,7 @@ related:
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   WP-CLI をメンテナンスする中で、まずは自分自身を幸せにし、自分がどこまで関わるかの境界を明確にすることが必要であると気づきました。私が見つけた最も良いバランスは、私の通常の仕事時間の中で週に2 ~ 5時間を充てるというものです。このバランスで、私はプロジェクトに熱心に関わることができ、かつ仕事のようだと感じることもありません。取り掛かるイシューの優先順位付けをしているので、最も重要だと思うことで定期的に進捗を出すことができるのです。
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

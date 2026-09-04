@@ -125,7 +125,7 @@ Dacă ești [începător la vorbitul în public](https://speaking.io/), începe 
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -144,7 +144,7 @@ Pe măsură ce-ți scrii discursul, concentrează-te pe ce va găsi interesant p
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
@@ -191,21 +191,6 @@ Ajutând nou-veniții, împărțind resurse, și făcând contribuții gândite 
 Nu este niciodată prea devreme, sau prea tâziu, să începi să-ți construiești reputația. Chiar dacă ți-ai lansat deja propriul tău proiect, continuă să cauți căi de a-i ajuta pe ceilalți.
 
 Nu există o soluție peste noapte de a construi un public. Obținerea încrederii și respectului celorlalți ia timp, și construirea reputației tale nu se sfârșește niciodată.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  <p>
-    PhantomJS a fost lansat prima dată la începutul lui 2011. (...) Am răspândit cuvântul prin căile obișnuite: am tweet-uit despre el, am scris postări de blog despre lucruri pe care le poți face cu el, l-am menționat în timpul variatelor discuții din întâlniri. Când a devenit mai cunoscut în 2014, am început să țin prezentări despre el.
-  </p>
-  <p>
-    <em>
-      PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
-    </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## Continuă!
 

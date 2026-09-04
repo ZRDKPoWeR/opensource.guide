@@ -105,7 +105,7 @@ Kabul etmek istemediğiniz bir katkı alırsanız, ilk tepkiniz bunu görmezden 
 
 Kendinizi suçlu hissettiğiniz için veya iyi davranmak istediğiniz için, istenmeyen bir katkıyı açık bırakmayın. Zaman içinde, cevaplanmayan sorunlar ve birleştirme istekleri projeniz üzerinde çalışmayı çok daha stresli ve korkutucu hissettirecektir.
 
-Kabul etmek istemediğinizi bildiğiniz katkıları derhal kapatmak daha iyidir. Projeniz zaten büyük bir birikimden etkilenmişse, @steveklabnik, [sorunların verimli bir şekilde nasıl sıralanacağı](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) konusunda verdiği önerilere bakabilirsiniz.
+Kabul etmek istemediğinizi bildiğiniz katkıları derhal kapatmak daha iyidir. Projeniz zaten büyük bir birikimden etkilenmişse, @steveklabnik, [sorunların verimli bir şekilde nasıl sıralanacağı](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener) konusunda verdiği önerilere bakabilirsiniz.
 
 İkincisi, katkıları görmezden gelmek, topluluğunuz için olumsuz bir sinyal gönderir. Bir projeye katkıda bulunmak, özellikle birinin ilk defa olması durumunda korkutucu olabilir. Katkısını kabul etmeseniz bile, arkasındaki kişiyi kabul edin ve ilgileri için teşekkür ederiz. Onlar için bu büyük bir iltifat olur!
 
@@ -116,7 +116,7 @@ Bir katkıyı kabul etmek istemiyorsanız:
 * Varsa, **ilgili belgelere link verin**. Kabul etmek istemediğiniz şeyler için tekrarlanan istekler fark ederseniz, tekrar etmemek için bunları belgelerinize ekleyin.
 * **İsteği kapatın.**
 
-Cevap vermek için 1-2 cümleden fazlasına ihtiyacınız yoktur. Örneğin, [kerevizin](https://github.com/celery/celery/) kullanıcısı Windows ile ilgili bir hata bildirdiğinde, @berkerpeksag [verdiği cevap](https://github.com/celery/celery/issues/3383):
+Cevap vermek için 1-2 cümleden fazlasına ihtiyacınız yoktur. Örneğin, [Celery](https://github.com/celery/celery/) kullanıcısı Windows ile ilgili bir hata bildirdiğinde, @berkerpeksag [verdiği cevap](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
@@ -223,7 +223,7 @@ Testler eklerseniz, CONTRIBUTING dosyanızda nasıl çalıştıklarını açıkl
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   İnsanların üzerinde çalıştığı tüm kodlar için testlerin gerekli olduğuna inanıyorum. Kod tamamen ve tamamen doğru olsaydı, değişikliğe ihtiyaç duymazdı - değişikliklerin yapılması gerektiğine - yalnızca bir şey yanlış olduğunda, "Çöktüğünde" ya da "Böyle ve böyle bir özellikten yoksun" olduğunda kod yazarız. Yaptığınız değişikliklerden bağımsız olarak, testler yanlışlıkla verebileceğiniz herhangi bir zararı yakalamak için gereklidir.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust'un Topluluk Otomasyonu"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust'un Topluluk Otomasyonu"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
@@ -237,7 +237,7 @@ Bakım çalışmalarının bazı yönlerini otomatikleştirmeye yardımcı olaca
 * [mention-bot](https://github.com/facebook/mention-bot) PR talepleri için potansiyel denetçilerden bahseder
 * [Danger](https://github.com/danger/danger) kod incelemesini otomatikleştirmeye yardımcı olur
 * [no-response](https://github.com/probot/no-response) geliştiricilerin uzun süre yanıt vermediği sorunları kapatır
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) bağımlılık dosyalarınızı her gün eski gereksinimler için kontrol eder ve bulduğu her biri için PR istekleri açar
+* [dependabot](https://github.com/dependabot) bağımlılık dosyalarınızı her gün eski gereksinimler için kontrol eder ve bulduğu her biri için PR istekleri açar
 
 Hata raporları ve diğer genel katkılar için GitHub, aldığınız iletişimi kolaylaştırmak için oluşturabileceğiniz [Sorun Şablonlarına ve PR İsteği Şablonlarına](https://github.com/blog/2111-issue-and-pull-request-templates) sahiptir. @TalAter sorununuzu ve PR şablonlarınızı yazmanıza yardımcı olmak için [Choose Your Own Adventure](https://www.talater.com/open-source-templates/#/) rehberini geliştirdi.
 
@@ -265,7 +265,7 @@ Tıpkı diğer tüm işlerde olduğu gibi, düzenli molalar vermek de işinizi y
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   WP-CLI’yı geliştirirken, önce kendimi mutlu etmem gerektiğini ve katılımım konusunda net sınırlar koymam gerektiğini keşfettim. Bulduğum en iyi denge, normal çalışma programımın bir parçası olarak haftada 2-5 saat. Bu benim katılımımı bir tutku olarak kalmasını sağlıyor ve iş gibi hissetmekten koruyor. Üzerinde çalıştığım konulara öncelik verdiğim için, en önemli olduğunu düşündüğüm konuda düzenli ilerleme sağlayabiliyorum.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Başınız sağolsun, şimdi popüler bir açık kaynak projesinin sorumlusunuz"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Başınız sağolsun, şimdi popüler bir açık kaynak projesinin sorumlusunuz"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   \[freenode\] で働くことで、その後の大学での勉強や実際の仕事をする上で役に立つたくさんのスキルを身につけることができました。オープンソースプロジェクトにコントリビュートすることは、プロジェクトを前進させると共に私自身への助けにもなりました！
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -62,19 +62,11 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   私は CocoaPods での仕事で有名になってきましたが、多くの人は私が CocoaPods 自体に対する仕事をほとんどしていないということを知らないのです。このプロジェクトでの私の時間はほとんどがドキュメントを書いたり、ブランディングのしごとをすることに費やされているのです。
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
 たとえコードを書くことが好きであったとしても、他の種類のコントリビュートはプロジェクトに関わり、他のコミュニティメンバーに会う良いやり方です。このような関係を作ることはそのプロジェクトの他の部分に関わる人と仕事をする機会を与えてくれます。
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  私が初めて Python 開発チーム(別名 python-dev )と接触したのは、2002年6月17日に私のパッチを受け入れてもらうためにメーリングリストにメールをした時でした。私はすぐにオープンソースバグに遭遇し、グループのためにメールの要約を整理し始めることにしました。彼らは、私の各トピックについての質問に寛大に接してくれましたが、更に非常に重要だったのが、誰かが修正が必要であるなにかを指摘した時にすぐに気づくことができるようになったということでした。
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
 
 ### イベントを計画するのが好きですか？
 
@@ -94,7 +86,7 @@ related:
 * プロジェクトのドキュメントを書いたり改善する
 * プロジェクトがどのように使われているかの事例を選別する
 * プロジェクトのニュースレターを始めたり、メーリングリストのハイライトを整理する
-* [PyPA のコントリビューターがやったように](https://github.com/pypa/python-packaging-user-guide/issues/194)、プロジェクトのチュートリアルを書く
+* [PyPA のコントリビューターがやったように](https://packaging.python.org/)、プロジェクトのチュートリアルを書く
 * プロジェクトのドキュメントを翻訳する
 
 <aside markdown="1" class="pquote">
@@ -140,7 +132,7 @@ related:
 * @h5bp はフロントエンド開発者のための[面接での質問集](https://github.com/h5bp/Front-end-Developer-Interview-Questions)をまとめています
 * @stuartlynn と @nicole-a-tesla は[ツノメドリについての愉快な事柄のコレクション](https://github.com/stuartlynn/puffin_facts)を作っています
 
-たとえあなたがソフトウェアエンジニアだったとしても、ドキュメントを書くことはオープンソース活動を始めるにあたって良いスタートとなります。ときにはコードを書かないプロジェクトに関わること障壁が低く、コラボレーションのプロセスを通じて自身と経験を身につけることができます。
+たとえあなたがソフトウェアエンジニアだったとしても、ドキュメントを書くことはオープンソース活動を始めるにあたって良いスタートとなります。ときにはコードを書かないプロジェクトに関わることのほうが障壁が低く、コラボレーションのプロセスを通じて自信と経験を身につけることができます。
 
 ## 新しいプロジェクトに順応しよう
 
@@ -205,7 +197,7 @@ related:
 
 README を読んで、壊れたリンクやタイポを見つけるかもしれません。もしくは、あなたは新しいユーザーで、何かが壊れていたり、ドキュメントに書かれているべきと考えるイシューがあるかもしれません。それを無視して先に進んだり、他の誰かに直してとお願いする代わりに、あなたが参加することで手助けができないかどうか確かめてみましょう。これがオープンソースというものなのです！
 
-> オープンソースへの[ふとしたコントリビュートの28%](https://www.igor.pro.br/publica/papers/saner2016.pdf) がタイポの修正やフォーマットの修正や翻訳といったドキュメントに対するものなのです。
+> オープンソースへの[ふとしたコントリビュートの28%](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) がタイポの修正やフォーマットの修正や翻訳といったドキュメントに対するものなのです。
 
 また、新しいプロジェクトを見つけてコントリビュートする手助けとして、次のようなリソースのうちの一つを使うこともできます:
 
@@ -215,9 +207,9 @@ README を読んで、壊れたリンクやタイポを見つけるかもしれ�
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### コントリビュートする前のチェックリスト
 
@@ -389,7 +381,7 @@ master ブランチのコミットアクティビティをみてみましょう�
   </p>
 </aside>
 
-イシューやプルリクエストをオープンする前に、あなたのアイデアが効果的に扱われる助けのために、これらのことを心のとどめておきましょう。
+イシューやプルリクエストをオープンする前に、あなたのアイデアが効果的に扱われる助けのために、これらのことを心にとどめておきましょう。
 
 **コンテキストを与えましょう。** 他の人がすぐに把握する手助けをしましょう。もしあなたがエラーに遭遇しているのであれば、あなたが何をしようとしていて、どうやって再現させるのかを説明しましょう。もしあなたが新しいアイデアを提案しているのであれば、なぜそれがプロジェクトにとって（あなたにとってだけではなく！）便利だと思うのかを説明しましょう。
 

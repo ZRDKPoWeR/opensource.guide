@@ -97,7 +97,7 @@ Jika anda [new to public speaking](https://speaking.io/), mulakan dengan mencari
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Saya agak gementar pergi ke PyCon. Saya memberi ceramah, saya hanya akan mengetahui beberapa orang di sana, saya akan pergi selama seminggu. (...) Saya tidak seharusnya risau. PyCon sangat hebat! (...) Semua orang sangat ramah dan ramah, sehinggakan saya jarang mendapat masa untuk tidak bercakap dengan orang!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -109,7 +109,7 @@ Semasa anda menulis ceramah anda, tumpukan perhatian kepada perkara yang menarik
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Apabila anda mula menulis ceramah anda, tidak kira apa topik anda, ia dapat membantu sekiranya anda melihat perbincangan anda sebagai cerita yang anda sampaikan kepada orang lain.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
@@ -142,14 +142,6 @@ Membantu pendatang baru, berkongsi sumber, dan memberikan sumbangan yang teliti 
 Tidak terlalu awal, atau terlambat, untuk mula membina reputasi anda Walaupun anda sudah melancarkan projek anda sendiri, teruskan mencari cara untuk menolong orang lain.
 
 Tidak ada penyelesaian semalam untuk membina penonton. Memperoleh kepercayaan dan penghormatan orang lain memerlukan masa, dan membina reputasi anda tidak akan pernah berakhir.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS dilancarkan untuk pertama kalinya pada awal tahun 2011. (...) Saya menyebarkan berita dengan cara biasa: Saya tweet mengenainya, saya menulis catatan blog mengenai perkara-perkara yang boleh anda lakukan dengannya, saya menyebutnya semasa pelbagai perbincangan dalam perjumpaan. Ketika menjadi lebih terkenal pada tahun 2014, saya mula memberikan persembahan mengenainya.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## Terus!
 

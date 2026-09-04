@@ -70,7 +70,7 @@ Możesz także rozważyć **społeczności**, które mają nadzieję wykorzysta�
 * **Czy chcesz, aby Twój projekt spodobał się dużym firmom?** Duży biznes prawdopodobnie będzie chciał uzyskać wyraźną licencję patentową od wszystkich autorów. W takim przypadku usługa [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) obejmuje Ciebie (i ich).
 * **Czy chcesz, aby Twój projekt był atrakcyjny dla autorów, którzy nie chcą, aby ich wkład był wykorzystywany w oprogramowaniu zamkniętym?** [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) lub (jeśli nie chcą również wnosić wkładu do usług zamkniętego źródła) [AGPLv3](https://choosealicense.com/licenses/agpl-3.0/) przejdzie dobrze.
 
-Twoja **firma** może mieć określone wymagania licencyjne dla swoich projektów open source. Na przykład, może wymagać zezwolenia licencyjnego, aby firma mogła wykorzystać Twój projekt w zamkniętym źródłowym produkcie firmy. Lub Twoja firma może wymagać silnej licencji copyleft i dodatkowej umowy o współautorze (patrz poniżej), aby tylko Twoja firma i nikt inny nie mógł używać twojego projektu w oprogramowaniu zamkniętym. Lub Twoja firma może mieć pewne potrzeby związane ze standardami, odpowiedzialnością społeczną lub przejrzystością, z których każda może wymagać określonej strategii licencjonowania. Porozmawiaj z działem prawnym swojej firmy](#what-does-my-companys-legal-team-need-to-know).
+Twoja **firma** może mieć określone wymagania licencyjne dla swoich projektów open source. Na przykład, może wymagać zezwolenia licencyjnego, aby firma mogła wykorzystać Twój projekt w zamkniętym źródłowym produkcie firmy. Lub Twoja firma może wymagać silnej licencji copyleft i dodatkowej umowy o współautorze (patrz poniżej), aby tylko Twoja firma i nikt inny nie mógł używać twojego projektu w oprogramowaniu zamkniętym. Lub Twoja firma może mieć pewne potrzeby związane ze standardami, odpowiedzialnością społeczną lub przejrzystością, z których każda może wymagać określonej strategii licencjonowania. Porozmawiaj z [działem prawnym swojej firmy](#co-powinien-wiedzieć-zespół-prawny-mojej-firmy).
 
 Podczas tworzenia nowego projektu w GitHub masz możliwość wybrania licencji. Dołączenie jednej z wyżej wymienionych licencji sprawi, że Twój projekt GitHub stanie się open source. Jeśli chcesz zobaczyć inne opcje, sprawdź [choosealicense.com](https://choosealicense.com), aby znaleźć odpowiednią licencję dla swojego projektu, nawet jeśli nie jest to [oprogramowanie](https://choosealicense.com/non-software/).
 
@@ -102,13 +102,13 @@ Ponadto poprzez dodanie „dokumentacji”, którą niektórzy uważają za niep
     We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
    </i>
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Niektóre sytuacje, w których warto rozważyć zawarcie dodatkowej umowy wnoszącej wkład dla twojego projektu, obejmują:
 
-* Twoi prawnicy chcą, aby wszyscy współtwórcy wyraźnie zaakceptowali warunki udziału (_sign_, online lub offline), być może dlatego, że uważają, że sama licencja typu open source nie wystarczy (nawet jeśli jest!). Jeśli jest to jedyny problem, wystarczy umowa współtwórcy, która potwierdza licencję open source projektu. [Umowa licencyjna na indywidualnego dostawcę jQuery](https://contribute.jquery.org/CLA/) jest dobrym przykładem niewielkiej dodatkowej umowy na współautora.
+* Twoi prawnicy chcą, aby wszyscy współtwórcy wyraźnie zaakceptowali warunki udziału (_sign_, online lub offline), być może dlatego, że uważają, że sama licencja typu open source nie wystarczy (nawet jeśli jest!). Jeśli jest to jedyny problem, wystarczy umowa współtwórcy, która potwierdza licencję open source projektu. [Umowa licencyjna na indywidualnego dostawcę jQuery](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) jest dobrym przykładem niewielkiej dodatkowej umowy na współautora.
 * Ty lub twoi prawnicy chcielibyście, aby programiści oświadczyli, że każde dokonane przez nich zatwierdzenie jest dozwolone. Wymaganiem [Developer Certificate of Origin](https://developercertificate.org/) jest to, ile projektów to osiąga. Na przykład społeczność Node.js [używa](https://github.com/nodejs/node/blob/HEAD/CONTRIBUTING.md) DCO [zamiast](https://nodejs.org/en/blog/uncategorized/notes-from-the-road/#easier-contribution) wcześniejszego CLA. Prostą opcją zautomatyzowania wymuszania kontroli DCO w repozytorium jest [DCO Probot](https://github.com/probot/dco).
 * Twój projekt wykorzystuje licencję typu open source, która nie obejmuje wyraźnej granty patentowej (takiej jak MIT), i potrzebujesz grantu patentowego od wszystkich autorów, z których niektórzy mogą pracować dla firm z dużymi portfelami patentowymi, które mogłyby być wykorzystane do Ciebie lub inni uczestnicy projektu i użytkownicy. [Umowa licencyjna na indywidualnego dostawcę Apache](https://www.apache.org/licenses/icla.pdf) to powszechnie stosowana dodatkowa umowa na współautora, której udzielenie patentowe odzwierciedla kopię zawartą w licencji Apache 2.0.
 * Twój projekt jest objęty licencją copyleft, ale musisz także rozpowszechniać zastrzeżoną wersję projektu. Będziesz potrzebował każdego współtwórcy, aby przypisać Ci prawa autorskie lub udzielić (ale nie publicznie) zezwolenia na korzystanie z licencji. [Umowa współtwórcy MongoDB](https://www.mongodb.com/legal/contributor-agreement) jest przykładem tego rodzaju umowy.
@@ -138,7 +138,7 @@ Jeśli wypuszczasz pierwszy projekt open source swojej firmy, powyższe rozwiąz
 
 W dłuższej perspektywie Twój zespół prawny może zrobić więcej, aby pomóc firmie lepiej wykorzystać zaangażowanie w open source i zachować bezpieczeństwo:
 
-* **Zasady dotyczące składek pracowniczych:** Rozważ opracowanie zasad korporacyjnych, które określają, w jaki sposób pracownicy przyczyniają się do projektów typu open source. Jasna polityka zmniejszy zamieszanie wśród pracowników i pomoże im przyczyniać się do projektów typu open source w najlepszym interesie firmy, zarówno w ramach pracy, jak i czasu wolnego. Dobrym przykładem jest [Model IP i Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Zasady dotyczące składek pracowniczych:** Rozważ opracowanie zasad korporacyjnych, które określają, w jaki sposób pracownicy przyczyniają się do projektów typu open source. Jasna polityka zmniejszy zamieszanie wśród pracowników i pomoże im przyczyniać się do projektów typu open source w najlepszym interesie firmy, zarówno w ramach pracy, jak i czasu wolnego. Dobrym przykładem jest [Model IP i Open Source Contribution Policy](https://ospo.co/blog/crafting-your-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
@@ -146,12 +146,12 @@ W dłuższej perspektywie Twój zespół prawny może zrobić więcej, aby pomó
   Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
   </i>
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **Co wydać:** [(Prawie) wszystko?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Jeśli Twój zespół prawny rozumie i jest zaangażowany w strategię otwartego oprogramowania firmy, najlepiej będzie Ci w stanie pomóc, a nie utrudnić wysiłki.
-* **Zgodność:** Nawet jeśli Twoja firma nie wydaje żadnych projektów typu open source, korzysta z oprogramowania innego typu. [Świadomość i proces](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) może zapobiegać bólom głowy, opóźnieniom produktowym, i procesom sądowym.
+* **Zgodność:** Nawet jeśli Twoja firma nie wydaje żadnych projektów typu open source, korzysta z oprogramowania innego typu. [Świadomość i proces](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) może zapobiegać bólom głowy, opóźnieniom produktowym, i procesom sądowym.
 
 <aside markdown="1" class="pquote">
   Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.

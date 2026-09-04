@@ -113,7 +113,7 @@ Wenn Sie einen Beitrag erhalten, den Sie nicht annehmen möchten, könnte Ihre e
 
 Lassen Sie keinen unerwünschten Beitrag offen, weil Sie sich schuldig fühlen oder nett sein wollen. Im Laufe der Zeit werden unbeantwortete Issues und PRs die Projektarbeit stressiger und einschüchternder machen.
 
-Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) (Englisch).
+Schließen Sie Beiträge lieber sofort, von denen Sie wissen, dass Sie sie nicht annehmen wollen. Wenn Ihr Projekt bereits unter einem großen Rückstand leidet, hat @steveklabnik Vorschläge für [eine effiziente Behandlung von Issues](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener) (Englisch).
 
 Zweitens sendet das Ignorieren von Beiträgen ein negatives Signal an die Gemeinschaft um Ihr Projekt. Einen Projektbeitrag einzureichen, kann einschüchternd sein, besonders für Neulinge. Auch wenn Sie ihren Beitrag nicht annehmen, danken Sie der einreichenden Person für ihr Interesse. Das ist ein großes Kompliment!
 
@@ -253,7 +253,7 @@ Wenn Sie Tests hinzufügen, erklären Sie deren Funktionsweise in Ihrer CONTRIBU
   _I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce._
 
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
@@ -265,7 +265,7 @@ Viele Maintainer\*innen populärer Projekte sind mit ähnlichen Problemen konfro
 * [mention-bot](https://github.com/facebook/mention-bot) erwähnt potentielle Reviewer für Pull Requests
 * [Danger](https://github.com/danger/danger) hilft bei der Automatisierung des Code Review
 * [no-response](https://github.com/probot/no-response) schließt Issues deren Autor\*in nicht auf Nachfragen antwortet
-* [dependabot-preview](https://github.com/marketplace/dependabot-preview) prüft bekannte Abhängigkeitsdateien täglich und eröffnet Pull Requests, sobald Aktualisierungen verfügbar werden
+* [dependabot](https://github.com/dependabot) prüft bekannte Abhängigkeitsdateien täglich und eröffnet Pull Requests, sobald Aktualisierungen verfügbar werden
 
 Für Fehlerberichte und andere allgemeine Beiträge hat GitHub [Issue- und Pull-Request-Templates](https://github.com/blog/2111-issue-and-pull-request-templates), die Sie erstellen können, um die Kommunikation zu optimieren. @TalAter hat einen [Choose Your Own Adventure Guide](https://www.talater.com/open-source-templates/#/) erstellt, der Ihnen beim Schreiben dieser Vorlagen hilft.
 
@@ -297,7 +297,7 @@ Genau wie bei jeder anderen Art von Arbeit, werden Sie durch regelmäßige Pause
   _In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important._
 
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

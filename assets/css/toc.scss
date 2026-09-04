@@ -8,6 +8,12 @@
 }
 
 .toc-trigger {
+  width: 100%;
+  background: transparent;
+  border: 0;
+  font: inherit;
+  color: inherit;
+
   &:hover {
     text-decoration: none;
     cursor: pointer;

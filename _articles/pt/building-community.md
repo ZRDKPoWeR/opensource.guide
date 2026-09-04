@@ -114,7 +114,7 @@ Dê o melhor de si para adotar uma política de tolerância zero contra esse tip
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   A verdade é que ter uma comunidade solidária é uma característica chave. Eu nunca poderia ter feito este trabalho sem a ajuda dos meus colegas, estranhos amigáveis da internet, e canais IRC tagarelas. (...) Não se contente com menos. Não se contente com idiotas.
   <p markdown="1" class="pquote-credit">
-  — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+  — @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -160,13 +160,13 @@ Procure encontrar maneiras de compartilhar a propriedade com a sua comunidade o 
 
 * **Crie um arquivo CONTRIBUTORS ou AUTHORS em seu projeto** que liste todos os que contribuíram para o seu projeto, como o [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) faz.
 
-* Se você possui uma comunidade de tamanho razoável, **envie uma newsletterm ou escreva um post em um blog** agradecendo aos contribuidores. A [This Week in Rust](https://this-week-in-rust.org/), do Rust, e a [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html), da Hoodie, são dois bons exemplos.
+* Se você possui uma comunidade de tamanho razoável, **envie uma newsletterm ou escreva um post em um blog** agradecendo aos contribuidores. A [This Week in Rust](https://this-week-in-rust.org/), do Rust, e a [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html), da Hoodie, são dois bons exemplos.
 
 * **Dê permissão de commit para cada um dos contribuidores.** @felixge descobriu que isso fez as pessoas [mais entusiasmadas em polir suas modificações](https://felixge.de/2013/03/11/the-pull-request-hack.html), e até mesmo descobriu novos mantenedores para projetos que ele não havia trabalhado por algum tempo.
 
 * Se o seu projeto está no GitHub, **mova-o da sua conta pessoal para uma [Organização](https://help.github.com/articles/creating-a-new-organization-account/)** e adicione pelo menos um administrador de backup. As organizações fazem com que seja mais fácil trabalhar em projetos com colaboradores externos.
 
-A verdade é que [a maioria dos projetos tem somente](https://peerj.com/preprints/1233.pdf) um ou dois mantenedores que fazem a maior parte do trabalho. Quanto maior o seu projeto, e maior a sua comunidade, mais fácil é encontrar ajuda.
+A verdade é que [a maioria dos projetos tem somente](https://peerj.com/preprints/1233/) um ou dois mantenedores que fazem a maior parte do trabalho. Quanto maior o seu projeto, e maior a sua comunidade, mais fácil é encontrar ajuda.
 
 Muito embora nem sempre você encontre alguém para responder ao chamado, colocar um aviso em algum lugar aumenta a chance de que outras pessoas contribuam. E quanto antes você começar, mais cedo as pessoas poderão ajudar.
 
@@ -174,7 +174,7 @@ Muito embora nem sempre você encontre alguém para responder ao chamado, coloca
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[É do seu\] maior interesse recrutar membros que gostem e sejam capazes de fazer coisas que você não seja. Você gosta de programar, mas não de responder a issues? Então identifique aqueles indivíduos, na sua comunidade, que o façam e deixe-os fazê-lo.
   <p markdown="1" class="pquote-credit">
-  — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+  — @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 
@@ -222,7 +222,7 @@ Sob o processo de busca por um consenso, membros da comunidade discutem questõe
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Parte da razão do porquê um sistema de votos não existe para as issues do Atom é porque o time do Atom não irá seguir um sistema de votação em todos os casos. Algumas vezes temos de escolher o que acreditamos que é certo, mesmo que isso seja impopular. (...) O que posso oferecer e prometer fazer ... é que é meu trabalho ouvir a comunidade.
   <p markdown="1" class="pquote-credit">
-  — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+  — @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

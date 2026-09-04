@@ -14,7 +14,7 @@ related:
 
 Si tu trabajo es mantener un proyecto de c&oacute;digo abierto que mucha gente usa, probablemente te hayas percatado que pasas m&aacute;s tiempo respondiendo issues que programando.
 
-En etapas tempranas de un proyecto, pasas tiempo experimentando con ideas nuevas y tomando decisiones en base a lo que te gusta. A medida que tu proyecto crece en popularidad, te encontrar&aacute;s en una situaci&oacute;n en la que trabajar&aacute;s con tus usuarios y colaboradores cada vez m&aacute;s.
+En etapas tempranas de un proyecto, pasas tiempo experimentando con ideas nuevas y tomando decisiones con base a lo que te gusta. A medida que tu proyecto crece en popularidad, te encontrar&aacute;s en una situaci&oacute;n en la que trabajar&aacute;s con tus usuarios y colaboradores cada vez m&aacute;s.
 
 Mantener un proyecto requiere m&aacute;s que solamente c&oacute;digo. Estas tareas no suelen ser tenidas en cuenta, pero son igual de importantes para un proyecto en crecimiento. Hemos reunido algunas ideas que har&aacute;n tu vida m&aacute;s f&aacute;cil, desde el proceso de documentaci&oacute;n hasta sacar el m&aacute;ximo provecho de la comunidad.
 
@@ -30,11 +30,12 @@ Aunque no seas del tipo de persona que escribe p&aacute;rrafos completos, tener 
 
 ### Dejando en claro la visi&oacute;n de tu proyecto
 
-Comienza escribiendo los objetivos de tu proyecto. Agr&eacute;galos a tu archivo README, o crea un archivo separado llamado VISION. Si existen otros artefactos que puedan ayudar, como un mapa del proyecto, h&aacute;zlos p&uacute;blicos tambi&eacute;n
+Comienza escribiendo los objetivos de tu proyecto. Agr&eacute;galos a tu archivo README, o crea un archivo separado llamado VISION. Si existen otros artefactos que puedan ayudar, como un mapa del proyecto, h&aacute;zlos p&uacute;blicos tambi&eacute;n.
 
-Llevando una clara, documentada visi&oacute;n te mantiene en foco y ayuda a evitar el mal entendimiento del alcance por parte de otros colaboradores.
+Llevando una clara visi&oacute;n documentada, te mantiene en foco y ayuda a evitar el mal entendimiento del alcance por parte de otros colaboradores.
 
-Por ejemplo, @lord descubri&oacute; que tener la visi&oacute;n de un proyecto lo ayud&oacute; a darse cuenta que peticiones priorizar. Como un mantenedor de c&oacute;digo novato, se lament&oacute; de no ser fiel al alcance del proyecto cuando recibi&oacute; su primer pedido de funcionalidad por [Slate](https://github.com/lord/slate).
+Por ejemplo:
+@lord descubri&oacute; que tener la visi&oacute;n de un proyecto lo ayud&oacute; a darse cuenta que peticiones priorizar. Como un mantenedor de c&oacute;digo novato, se lament&oacute; de no ser fiel al alcance del proyecto cuando recibi&oacute; su primer pedido de funcionalidad por [Slate](https://github.com/lord/slate).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
@@ -103,7 +104,7 @@ Si recibes una contribuci&oacute;n que no deseas aceptar, tu primera reacci&oacu
 
 No dejes abierta una contribuci&oacute;n no deseada porque te sientas culpable o quieras ser amable. Con el tiempo, tus issues sin respuesta y PRs har&aacute; que trabajar en tu proyecto se sienta mucho m&aacute;s estresante e intimidante.
 
-Es mejor cerrar de inmediato las contribuciones que sabes que no quieres aceptar. Si tu proyecto ya sufre de un gran backlog o lista de funcionalidades a implementar, @steveklabnik tiene sugerencias para [c&oacute;mo elegir issues de manera eficiente](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Es mejor cerrar de inmediato las contribuciones que sabes que no quieres aceptar. Si tu proyecto ya sufre de un gran backlog o lista de funcionalidades a implementar, @steveklabnik tiene sugerencias para [c&oacute;mo elegir issues de manera eficiente](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 En segundo lugar, ignorar las contribuciones env&iacute;a una se&ntilde;al negativa a tu comunidad. Contribuir a un proyecto puede ser intimidante, especialmente si es la primera vez de alguien. Incluso si no aceptas su contribuci&oacute;n, reconocer a la persona detr&aacute;s de ella y agradecerles por su inter&eacute;s. ¡Es un gran cumplido!
 
@@ -221,7 +222,7 @@ Si agregas testing, aseg&uacute;rate de explicar c&oacute;mo funcionan en su arc
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Creo que las pruebas son necesarias para todo c&oacute;digo en el que la gente trabaja. Si el c&oacute;digo era totalmente y perfectamente correcto, no necesitar&iacute;a cambios - s&oacute;lo escribimos c&oacute;digo cuando algo est&aacute; mal, ya sea "Se bloquea" o "Falta tal o cual caracter&iacute;stica". Independientemente de los cambios que est&eacute;s haciendo, las pruebas son esenciales para capturar cualquier regresi&oacute;n que pueda introducir accidentalmente.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Automatizaci&oacute;n de la comunidad de Rust"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Automatizaci&oacute;n de la comunidad de Rust"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
@@ -259,7 +260,7 @@ Al igual que cualquier otro tipo de trabajo, tomar pausas regulares te mantendr&
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Durante el mantenimiento de WP-CLI, descubr&iacute; que tengo que preocuparme por mi felicidad primero, y establecer l&iacute;mites claros en mi participaci&oacute;n. El mejor equilibrio que he encontrado es 2-5 horas por semana, como parte de mi horario de trabajo normal. Esto mantiene mi participaci&oacute;n una pasi&oacute;n, y de sentirse demasiado como el trabajo. Como priorizo ​​las issues en las que estoy trabajando, puedo hacer progresos regulares en lo que creo que es lo m&aacute;s importante.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Mis condolencias, ahora eres el mantenedor de un proyecto de c&oacute;digo abierto popular"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["Mis condolencias, ahora eres el mantenedor de un proyecto de c&oacute;digo abierto popular"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 

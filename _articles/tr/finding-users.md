@@ -97,7 +97,7 @@ Genel olarak konuşursak, karşılığında bir şey istemeden önce başkaları
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   PyCon'a giderken oldukça gergindim. Bir konuşma yapıyordum, sadece birkaç kişiyi tanıyacaktım, bir hafta boyunca gidecektim. (...) Yine de bu kadar endişelenmemeliydim. PyCon olağanüstü bir harikaydı! (...) Herkes inanılmaz derecede cana yakın ve paylaşımcıydı, o kadar ki nadiren ben de konuşmak için fırsat bulabildim!
   <p markdown="1" class="pquote-credit">
-- @jhamrick, ["Endişelenmeyi Durdurmayı ve PyCon'u Sevmeyi Nasıl Öğreniyorum"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)   
+- @jhamrick, ["Endişelenmeyi Durdurmayı ve PyCon'u Sevmeyi Nasıl Öğreniyorum"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -109,7 +109,7 @@ Konuşmanızı yazarken, izleyicilerinizin ilginç bulacağı ve değer kazanaca
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Konuşmanızı yazmaya başladığınızda, konunuz ne olursa olsun, konuşmanızı insanlara anlattığınız bir hikaye olarak görmeniz yararlı olabilir.
   <p markdown="1" class="pquote-credit">
-- Lena Reinhard, ["Teknik Konferans Konuşması Nasıl Hazırlanır ve Yazılır"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+- Lena Reinhard, ["Teknik Konferans Konuşması Nasıl Hazırlanır ve Yazılır"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
@@ -142,14 +142,6 @@ Yeni gelenlere yardım etmek, kaynakları paylaşmak ve başkalarının projeler
 İtibarınızı oluşturmak için asla çok erken veya geç değildir. Kendi projenizi daha önce başlatmış olsanız bile, başkalarına yardım etmenin yollarını aramaya devam edin.
 
 Kitle oluşturmak için bir gecede çözüm yoktur. Başkalarının güvenini ve saygısını kazanmak zaman alır ve itibarınızı geliştirmek hiç tamamlanmayan bir iştir.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS ilk kez 2011 yılının başında piyasaya sürüldü. (...) Mesajını her zamanki gibi yaydım: Tweetledim, yapabileceğin şeyler hakkında blog yazıları yazdım, buluşmalarda çeşitli tartışmalar sırasında bahsettim. 2014 yılında daha iyi tanındığında, onunla ilgili sunumlar yapmaya başladım.
-  <p markdown="1" class="pquote-credit">
-- @ariya, ["Geliştirici Hikayeleri"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## Devam et!
 
